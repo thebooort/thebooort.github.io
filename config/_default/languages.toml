@@ -1,6 +1,6 @@
-[es]
+[en]
   title = "Effective Axiomatization"
-  languageName = "Spanish"
+  languageName = "English"
   weight = 1
   languagedir = "ltr"
-  contentdir = "content/es"
+  contentdir = "content/en"

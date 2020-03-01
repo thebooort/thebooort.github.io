@@ -2,7 +2,7 @@ baseURL = "https://thebooort.github.io"
 title = "Effective Axiomatization"
 theme = "zzo"
 
-defaultContentLanguage = "es"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = false
 
