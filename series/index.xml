@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Series on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/series/</link>
+    <description>Recent content in Series on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Themes Guide</title>
+        <link>https://thebooort.github.io/series/themes-guide/</link>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/series/themes-guide/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
