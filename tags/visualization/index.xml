@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Visualization on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/tags/visualization/</link>
+    <description>Recent content in Visualization on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Thu, 19 Mar 2020 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>COVID19 &#43; Bokeh</title>
+        <link>https://thebooort.github.io/posts/covid_bokeh/</link>
+        <pubDate>Thu, 19 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Thu, 19 Mar 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/covid_bokeh/</guid>
+        <description>COVID19- El caso de Andalucía Graficos  Data Source Todos los datos están obtenidos de Numeroteca COVID-19
+Librerías usadas  Bokeh Pandas  </description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/covid_plot/plot.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
