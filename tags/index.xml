@@ -14,7 +14,7 @@
     <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
     <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Thu, 19 Mar 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2020 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -26,7 +26,7 @@
       <item>
         <title>COVID19</title>
         <link>https://thebooort.github.io/tags/covid19/</link>
-        <pubDate>Thu, 19 Mar 2020 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 22 Mar 2020 12:00:06 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/covid19/</guid>
@@ -44,7 +44,7 @@
       <item>
         <title>Python</title>
         <link>https://thebooort.github.io/tags/python/</link>
-        <pubDate>Thu, 19 Mar 2020 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 22 Mar 2020 12:00:06 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/python/</guid>
@@ -62,190 +62,10 @@
       <item>
         <title>Visualization</title>
         <link>https://thebooort.github.io/tags/visualization/</link>
-        <pubDate>Thu, 19 Mar 2020 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 22 Mar 2020 12:00:06 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/visualization/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>shortcode</title>
-        <link>https://thebooort.github.io/tags/shortcode/</link>
-        <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/shortcode/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>privacy</title>
-        <link>https://thebooort.github.io/tags/privacy/</link>
-        <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/privacy/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>shortcodes</title>
-        <link>https://thebooort.github.io/tags/shortcodes/</link>
-        <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/shortcodes/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>hugo</title>
-        <link>https://thebooort.github.io/tags/hugo/</link>
-        <pubDate>Wed, 18 Dec 2019 10:33:41 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/hugo/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>amoji</title>
-        <link>https://thebooort.github.io/tags/amoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/amoji/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>bamoji</title>
-        <link>https://thebooort.github.io/tags/bamoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/bamoji/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>emoji</title>
-        <link>https://thebooort.github.io/tags/emoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/emoji/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>gamoji</title>
-        <link>https://thebooort.github.io/tags/gamoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/gamoji/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>namoji</title>
-        <link>https://thebooort.github.io/tags/namoji/</link>
-        <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/namoji/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>diagram</title>
-        <link>https://thebooort.github.io/tags/diagram/</link>
-        <pubDate>Sun, 17 Nov 2019 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/diagram/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>

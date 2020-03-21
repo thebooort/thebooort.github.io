@@ -14,7 +14,7 @@
     <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
     <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Thu, 19 Mar 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2020 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
@@ -24,14 +24,14 @@
 
       
       <item>
-        <title>COVID19 &#43; Bokeh</title>
-        <link>https://thebooort.github.io/posts/covid_bokeh/</link>
-        <pubDate>Thu, 19 Mar 2020 12:00:06 +0900</pubDate>
+        <title>COVID19 &#43; Bokeh - Mapas!</title>
+        <link>https://thebooort.github.io/posts/covid_bokeh_mapa/</link>
+        <pubDate>Sun, 22 Mar 2020 12:00:06 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
-        <atom:modified>Thu, 19 Mar 2020 12:00:06 +0900</atom:modified>
-        <guid>https://thebooort.github.io/posts/covid_bokeh/</guid>
-        <description>COVID19- El caso de Andalucía Graficos  Data Source Todos los datos están obtenidos de Numeroteca COVID-19
-Librerías usadas  Bokeh Pandas  </description>
+        <atom:modified>Sun, 22 Mar 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/covid_bokeh_mapa/</guid>
+        <description>Este post continúa la serie sobre visualización del COVID-19. La motivación para hacerla no es otra que ocupar los ratos muertos de la cuarentena para aprender a crear gráficos interactivos con Bokeh.
+Y de paso ofrecer un vistazo objetivo a los datos que nos llegan sobre la enfermedad. Sé que suena un poco raro pero ya que voy a estar dándole vueltas al tema, tener este enfoque objetivo me ayuda a sobrellevarlo.</description>
         
         <dc:creator>Bart</dc:creator>
         <media:content url="https://thebooort.github.ioimages/covid_plot/plot.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -53,6 +53,108 @@ Librerías usadas  Bokeh Pandas  </description>
           
         
         
+          
+            
+              <category>coding</category>
+            
+          
+        
+        
+          
+            
+              <category>COVID19 visualization</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>COVID19 &#43; Bokeh: Madrid vs. Andalucía</title>
+        <link>https://thebooort.github.io/posts/covid_bokeh_madrid_vs_and/</link>
+        <pubDate>Sat, 21 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Sat, 21 Mar 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/covid_bokeh_madrid_vs_and/</guid>
+        <description>Este post continúa la serie sobre visualización del COVID-19. La motivación para hacerla no es otra que ocupar los ratos muertos de la cuarentena para aprender a crear gráficos interactivos con Bokeh.
+Y de paso ofrecer un vistazo objetivo a los datos que nos llegan sobre la enfermedad. Sé que suena un poco raro pero ya que voy a estar dándole vueltas al tema, tener este enfoque objetivo me ayuda a sobrellevarlo.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/covid_plot/plot2.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+        
+        
+          
+            
+              <category>COVID19 visualization</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>COVID19 &#43; Bokeh</title>
+        <link>https://thebooort.github.io/posts/covid_bokeh/</link>
+        <pubDate>Thu, 19 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Thu, 19 Mar 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/covid_bokeh/</guid>
+        <description>Este post comienza una serie sobre visualización del COVID-19. La motivación para hacerla no es otra que ocupar los ratos muertos de la cuarentena para aprender a crear gráficos interactivos con Bokeh.
+Y de paso ofrecer un vistazo objetivo a los datos que nos llegan sobre la enfermedad. Sé que suena un poco raro pero ya que voy a estar dándole vueltas al tema, tener este enfoque objetivo me ayuda a sobrellevarlo.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/covid_plot/plot.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+        
+        
+          
+            
+              <category>COVID19 visualization</category>
+            
+          
         
       </item>
       
