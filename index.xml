@@ -14,7 +14,7 @@
     <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
     <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Sun, 22 Mar 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2020 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -43,6 +43,53 @@
         
       
 
+      
+      <item>
+        <title>How to visualize a github repository evolution in time</title>
+        <link>https://thebooort.github.io/posts/perl6-viz/</link>
+        <pubDate>Mon, 23 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Mon, 23 Mar 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/perl6-viz/</guid>
+        <description>¡Ojo! Perl6 ya &amp;ldquo;no existe&amp;rdquo;, oficalmente el lenguaje ahora se llama ¡Raku! :)
+Perl6 Documentation Durante un breve periodo de tiempo estuve estudiando la evolución en las contribuciones a los repositorios de código. En muchas ocasiones se dice que este tipo de contribuciones siguen leyes de potencias, pero habitualmente esta afirmación va apoyada únicamente por un par de fits de distribuciones a los datos, sin contraste de hipótesis o comparación con otras posibles distribuciones.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/repo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Github</category>
+            
+          
+            
+              <category>Repository</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Perl6</category>
+            
+          
+            
+              <category>Raku</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>COVID19 &#43; Bokeh - Mapas!</title>

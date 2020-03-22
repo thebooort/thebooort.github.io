@@ -1580,7 +1580,7 @@
     <div class="single__meta">
       
 <div class="single__infos">
-  <time class="single__info" title="Written At">📅&nbsp;Mar 22, 2020 </time>  &middot; <span class="single__info" title="Reading Time"> ☕ 2 min read </span>&middot; <span class="single__info" title="WRITTEN BY">✍️&nbsp;Bart</span>
+  <time class="single__info" title="Written At">📅&nbsp;Mar 22, 2020 </time>  &middot; <span class="single__info" title="Reading Time"> ☕ 3 min read </span>&middot; <span class="single__info" title="WRITTEN BY">✍️&nbsp;Bart</span>
   <span class="single__info">
     
   </span>
@@ -1621,7 +1621,13 @@
   <ul>
     <li><a href="#covid19---grficos-de-europa">COVID19 - Gráficos de Europa</a>
       <ul>
-        <li><a href="#graficos">Graficos</a></li>
+        <li><a href="#graficos">Graficos</a>
+          <ul>
+            <li><a href="#grfico-interactivo-de-casos-y-muertes">Gráfico interactivo de casos y muertes</a></li>
+            <li><a href="#grfico-interactivo-de-casos-y-muertes-1">Gráfico interactivo de casos y muertes</a></li>
+            <li><a href="#extra-el-dashboard-de-la-johns-hopkins-university">Extra: El dashboard de la Johns Hopkins University</a></li>
+          </ul>
+        </li>
         <li><a href="#data-source">Data Source</a></li>
         <li><a href="#libreras-usadas">Librerías usadas</a>
           <ul>
@@ -1639,18 +1645,36 @@
 <p>Y de paso ofrecer un vistazo objetivo a los datos que nos llegan sobre la enfermedad. Sé que suena un poco raro pero ya que voy a estar dándole vueltas al tema, tener este enfoque objetivo me ayuda a sobrellevarlo.</p>
 <p>En cuanto depure los códigos los subo a github y tendréis el enlace aquí:</p>
 <h2 id="covid19---grficos-de-europa">COVID19 - Gráficos de Europa</h2>
-<p>En esta ocasión, para cerrar (por ahora) esta introducción que me estoy haciendo a la biblioteca Bokeh, quería aportar luz sobre la evolución de la enfermedad por el mundo.</p>
+<p>Para cerrar (por ahora) esta introducción que me estoy haciendo a la biblioteca Bokeh, quería aportar luz sobre la evolución de la enfermedad por el mundo.</p>
 <p>Ni por estudios ni por trabajo, nunca me ha tocado trabajar con datos geográficos. Es por eso que quería llenar un poco la laguna que tengo a la hora de representarlos gráficamente. He visto que bokeh es un excelente recurso para eso, asi que me he lanzado a sacarle partido.</p>
 <p>En esta ocasión estoy siguiendo un <a href="https://towardsdatascience.com/a-complete-guide-to-an-interactive-geographical-map-using-python-f4c5197e23e0">tutorial de Shivangi Patel</a>.</p>
+<p>El tutorial está estupendo y sirve no solo como introducción para plotear mapas si no también para cómo hacerlo en Bokeh y como usar Bokeh para generar un minidashboard en el que los datos vayan actualizandose.</p>
+<p>Esto último, requiere de un server que lamentable mente no tengo, asi que os dejo un su lugar un video del resultado.</p>
+<p>Por otra parte, he aprovechado para trabajar con geopandas y empaparme un poco del tema de datos geográficos. Lamentablemente el dataset consultado usaba un GEOID un tanto raro, que no he conseguido acoplar correactamente al archivo shapes (no usa el estandar de codificacion de países de 3 letras, y no coincide con los que he visto de 2 letras), con lo que la info de algunos países a pesar de tenerla, no está visible.</p>
+<p>En cualquier caso, como introducción, contento con los resultados.</p>
 <h3 id="graficos">Graficos</h3>
-<iframe width="100%" height="700" src="/images/covid_plot/plot_andalucia.html">
+<h4 id="grfico-interactivo-de-casos-y-muertes">Gráfico interactivo de casos y muertes</h4>
+<p>Aquí aproveche para manejar pestañas y ofrecer en el mismo grafico la posibilidad de consultar ambas variables en el mundo. Probé con los hover, pero no me encajaron mucho y decidí que esta era la mejor opción.</p>
+<iframe width="100%" height="700" src="/images/covid_plot/my_first_map.html">
 </iframe>
+<h4 id="grfico-interactivo-de-casos-y-muertes-1">Gráfico interactivo de casos y muertes</h4>
+<p>Finalmente añadí la interacción al gráfico de manera que se acualice a cada paso. La verdad que el data set ha mostrado ser insuficiente, con muchos valores perdidos. No obstante, creo que el caso de Italia (podéis hacer zoom :) ) se ve bastante bien como empeora el color.</p>
+<p>Os dejo por aquí el video del resultado</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/eGs_CDpOdSE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h4 id="extra-el-dashboard-de-la-johns-hopkins-university">Extra: El dashboard de la Johns Hopkins University</h4>
+<p>Por último aprovecho para dejaros el dashboard de la Johns Hopkins University, que está muy currado y con la info al día.</p>
+<iframe width="650" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="2019-nCoV" src="/gisanddata.maps.arcgis.com/apps/Embed/index.html?webmap=14aa9e5660cf42b5b4b546dec6ceec7c&extent=77.3846,11.535,163.5174,52.8632&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe>
 <h3 id="data-source">Data Source</h3>
 <p>Todos los datos están obtenidos de <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide">ECDC COVID-19</a></p>
 <h3 id="libreras-usadas">Librerías usadas</h3>
 <ul>
 <li><a href="https://bokeh.org/">Bokeh</a></li>
 <li><a href="https://pandas.pydata.org/">Pandas</a></li>
+<li><a href="https://geopandas.org/">GeoPandas</a></li>
 </ul>
 <h4 id="con-esta-parte-creo-que-aparco-de-momento-esta-serie-de-covidbokeh-en-pos-de-hacer-algn-post-sobre-otras-herramientas-no-obstante-no-descarto-volver-en-breve-el-tema-de-la-visualizacin-me-gusta-mucho">Con esta parte creo que aparco de momento esta serie de COVID+Bokeh en pos de hacer algún post sobre otras herramientas. No obstante, no descarto volver en breve, el tema de la visualización me gusta mucho.</h4>
 
@@ -1909,6 +1933,13 @@
       </a>
     
     <div class="grow"></div>
+    
+      <a href="https://thebooort.github.io/posts/perl6-viz/" class="pagination-single__right">      
+        <div class="pagination-single__right-title">How to visualize a github repository evolution in time</div>
+        <div class="pagination-single__icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M5 13h11.17l-4.88 4.88c-.39.39-.39 1.03 0 1.42.39.39 1.02.39 1.41 0l6.59-6.59c.39-.39.39-1.02 0-1.41l-6.58-6.6c-.39-.39-1.02-.39-1.41 0-.39.39-.39 1.02 0 1.41L16.17 11H5c-.55 0-1 .45-1 1s.45 1 1 1z"/></svg>
+        </div>
+      </a>
     
   
 </nav>
@@ -2270,7 +2301,13 @@ document.addEventListener('DOMContentLoaded', function () {
   <ul>
     <li><a href="#covid19---grficos-de-europa">COVID19 - Gráficos de Europa</a>
       <ul>
-        <li><a href="#graficos">Graficos</a></li>
+        <li><a href="#graficos">Graficos</a>
+          <ul>
+            <li><a href="#grfico-interactivo-de-casos-y-muertes">Gráfico interactivo de casos y muertes</a></li>
+            <li><a href="#grfico-interactivo-de-casos-y-muertes-1">Gráfico interactivo de casos y muertes</a></li>
+            <li><a href="#extra-el-dashboard-de-la-johns-hopkins-university">Extra: El dashboard de la Johns Hopkins University</a></li>
+          </ul>
+        </li>
         <li><a href="#data-source">Data Source</a></li>
         <li><a href="#libreras-usadas">Librerías usadas</a>
           <ul>
@@ -2732,7 +2769,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     
     
-    var lib = JSON.parse("[\"pandas\",\"bokeh\"]");
+    var lib = JSON.parse("[\"pandas\",\"bokeh\",\"geopandas\"]");
 
     if (lib && lib.includes('mermaid')) {
       
