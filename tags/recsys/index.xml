@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>RecSys on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/tags/recsys/</link>
+    <description>Recent content in RecSys on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Sat, 28 Mar 2020 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/tags/recsys/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>COVID19 Kaggle Challenge</title>
+        <link>https://thebooort.github.io/posts/covid_kaggle/</link>
+        <pubDate>Sat, 28 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Sat, 28 Mar 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/covid_kaggle/</guid>
+        <description>Este post pertenece a una serie de posts relacionados con los notebooks enviados a la competición de Kaggle de 2020 sobre COVID19
+COVID19 - Kaggle Graficos LDA Gráfico interactivo LDA   </description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/covid_plot/kaggle.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Machine learning</category>
+            
+          
+            
+              <category>LDA</category>
+            
+          
+            
+              <category>RecSys</category>
+            
+          
+            
+              <category>Kaggle</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+        
+        
+          
+            
+              <category>COVID19 kaggle</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

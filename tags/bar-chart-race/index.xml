@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Bar Chart Race on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/tags/bar-chart-race/</link>
+    <description>Recent content in Bar Chart Race on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Sun, 29 Mar 2020 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/tags/bar-chart-race/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>CO₂ emissions per capita in history: a bar chart race</title>
+        <link>https://thebooort.github.io/posts/bar_chart/</link>
+        <pubDate>Sun, 29 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Sun, 29 Mar 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/bar_chart/</guid>
+        <description>Bar chart race Siguiendo un poco el interés que me suscita la representación visual de datos, aprovechando la cuarentena me puse a descubrir la mejor forma de hacer una &amp;ldquo;carrera de gráficos de barras&amp;rdquo;.
+Este tipo de visualización ha cogido fama últimamente. Más que por su su utilidad a la hora de analizar los datos, por su forma atractiva y visual de presentar la información, haciéndola muy apetecible al público en general y prestándose a ofrecer videos interesantes fáciles de consumir.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/co2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Flourish</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Bar Chart Race</category>
+            
+          
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>DataViz</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
