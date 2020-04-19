@@ -24,12 +24,12 @@
 
       
       <item>
-        <title>Hugo Zzo Theme</title>
-        <link>https://thebooort.github.io/showcase/asociaciones/hugo-theme-zzo/</link>
+        <title>Asociación de Estudiantes de Matemáticas. Universidad de Granada</title>
+        <link>https://thebooort.github.io/showcase/asociaciones/amat/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://thebooort.github.io/showcase/asociaciones/hugo-theme-zzo/</guid>
+        <guid>https://thebooort.github.io/showcase/asociaciones/amat/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
@@ -42,12 +42,30 @@
       </item>
       
       <item>
-        <title>Hugo zDoc Theme</title>
-        <link>https://thebooort.github.io/showcase/asociaciones/hugo-theme-zdoc/</link>
+        <title>BioInfoGRX</title>
+        <link>https://thebooort.github.io/showcase/asociaciones/bioinfogrx/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://thebooort.github.io/showcase/asociaciones/hugo-theme-zdoc/</guid>
+        <guid>https://thebooort.github.io/showcase/asociaciones/bioinfogrx/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Interferencias</title>
+        <link>https://thebooort.github.io/showcase/asociaciones/interferencias/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>https://thebooort.github.io/showcase/asociaciones/interferencias/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>

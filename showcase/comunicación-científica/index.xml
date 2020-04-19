@@ -24,12 +24,30 @@
 
       
       <item>
-        <title>Hugo Zzo Theme</title>
-        <link>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/hugo-theme-zzo/</link>
+        <title>Asociación de Estudiantes de Matemáticas. Universidad de Granada</title>
+        <link>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/amat/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/hugo-theme-zzo/</guid>
+        <guid>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/amat/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Conferencias y talleres para Asociacion Granadina de Altas capacidades</title>
+        <link>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/asgran/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/asgran/</guid>
         <description>aaa</description>
         
         <dc:creator>Bart Ortiz</dc:creator>
@@ -42,12 +60,102 @@
       </item>
       
       <item>
-        <title>Hugo zDoc Theme</title>
-        <link>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/hugo-theme-zdoc/</link>
+        <title>Open Bacteria Project</title>
+        <link>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/opb/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/hugo-theme-zdoc/</guid>
+        <guid>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/opb/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Open Biolab GRX</title>
+        <link>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/openbiolab/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/openbiolab/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Talleres en la Feria de la ciencia del Parque de las Ciencia (Granada)</title>
+        <link>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/feria_de_la_ciencia/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/feria_de_la_ciencia/</guid>
+        <description>aaa</description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>The Fluxions Podcast</title>
+        <link>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/fluxions/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/fluxions/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>BioInfoGRX</title>
+        <link>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/bioinfogrx/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/bioinfogrx/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Interferencias</title>
+        <link>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/interferencias/</link>
+        <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
+        <guid>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/interferencias/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>

@@ -14,7 +14,7 @@
     <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
     <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Sun, 29 Mar 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -43,6 +43,195 @@
         
       
 
+      
+      <item>
+        <title>¿Cómo vamos? Estimando el ritmo de contagio </title>
+        <link>https://thebooort.github.io/posts/r_0granada/</link>
+        <pubDate>Fri, 10 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Fri, 10 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/r_0granada/</guid>
+        <description>Image credit: CDC Unsplash
+Estimando R_0 de Granada (ritmo de contagio) en ventanas semanales En lugar de hacer estimaciones o predicciones (aún creo que tengo que seguir leyendo más sobre el tema para lanzarme) he optado por analizar el ritmo reproductivo básico.
+(de Wikipedia) En epidemiología, el número básico de reproducción (a veces llamado ritmo básico de reproducción, ratio reproductiva básica y denotadas por $R0$, r sub-cero) de una infección es el número promedio de casos nuevos que genera un caso dado a lo largo de un período infeccioso.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/virus.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>R</category>
+            
+          
+            
+              <category>Statistics</category>
+            
+          
+            
+              <category>Mathematics</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>El aire que respiramos durante el confinamiento</title>
+        <link>https://thebooort.github.io/posts/pollution_levels/</link>
+        <pubDate>Wed, 08 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Wed, 08 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/pollution_levels/</guid>
+        <description>Image credit: Ivan Aleksic @ivalex Unsplash
+¿Cómo afecta el confinamiento a los niveles de polución? Durante la cuarentena que estamos viviendo la reducción de la movilidad de las personas es evidente.
+Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de transporte público y algunas maquinarias pertenecientes a servicios que se encuentran inactivos, muchos medios se han hecho eco de la disminución en los niveles de polución ambiental. Es más, al ser COVID una enfermedad que afecta a las vías respiratorias, ya hay algunos analisis que relacionan la polución del aire con tasas de moratilidad mas altas por COVID.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/polucion.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Pollution</category>
+            
+          
+            
+              <category>Ecollogy</category>
+            
+          
+            
+              <category>Air Quality</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Did confinement affect my sleep/exercise routine?</title>
+        <link>https://thebooort.github.io/posts/analyzing-sleep-patterns-before-and-during-covid19-quarentine/</link>
+        <pubDate>Mon, 06 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Mon, 06 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/analyzing-sleep-patterns-before-and-during-covid19-quarentine/</guid>
+        <description>Image credit: Javier Ezpeleta @javierezpeleta Unsplash
+Did confinement affects my sleep routine? Llevamos ya varias semanas de cuarentena y los ánimos varían mucho de un día a otro. Ultimamente han aparecido muchos artículos y estudios sobre el posible impacto del confinamiento en nuestros ritmos de vida. El tema me despertaba bastante curiosidad desde el principio, y da la casualidad de que por mis otros hobbies (trail running) tengo un reloj capaz de captar algunas de mis rutinas.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/cat.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Machine Learning</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>CO₂ emissions per capita in history: a bar chart race</title>
@@ -150,6 +339,10 @@ Había varios retos o tareas en las que podíamos embarcarnos, pero como nuestro
           
             
               <category>RecSys</category>
+            
+          
+            
+              <category>coding</category>
             
           
         
