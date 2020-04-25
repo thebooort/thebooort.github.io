@@ -14,7 +14,7 @@
     <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
     <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Fri, 10 Apr 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -26,7 +26,7 @@
       <item>
         <title>coding</title>
         <link>https://thebooort.github.io/categories/coding/</link>
-        <pubDate>Fri, 10 Apr 2020 12:00:06 +0900</pubDate>
+        <pubDate>Thu, 23 Apr 2020 12:00:06 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/categories/coding/</guid>
@@ -44,10 +44,28 @@
       <item>
         <title>Data Science</title>
         <link>https://thebooort.github.io/categories/data-science/</link>
-        <pubDate>Fri, 10 Apr 2020 12:00:06 +0900</pubDate>
+        <pubDate>Thu, 23 Apr 2020 12:00:06 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/categories/data-science/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Gaming</title>
+        <link>https://thebooort.github.io/categories/gaming/</link>
+        <pubDate>Thu, 23 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/categories/gaming/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
