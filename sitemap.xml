@@ -59,6 +59,96 @@
   
   <url>
     <loc>https://thebooort.github.io/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/air-quality/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/coding/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/covid19/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/data/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/data-science/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/data-science/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/ecology/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/pollution_levels_update_abril/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/pollution/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/python/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/visualization/</loc>
+    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/running/</loc>
+    <lastmod>2020-04-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/where-to-run/</loc>
+    <lastmod>2020-04-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/baduk/</loc>
     <lastmod>2020-04-26T12:00:06+09:00</lastmod>
   </url>
   
@@ -73,67 +163,12 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/tags/baduk/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/categories/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/categories/coding/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/data/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/series/data-science/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/categories/data-science/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thebooort.github.io/tags/go/</loc>
     <lastmod>2020-04-26T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://thebooort.github.io/tags/machine-learning/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/posts/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/python/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/series/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/visualization/</loc>
     <lastmod>2020-04-26T12:00:06+09:00</lastmod>
   </url>
   
@@ -163,11 +198,6 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/tags/covid19/</loc>
-    <lastmod>2020-04-10T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thebooort.github.io/series/covid19/</loc>
     <lastmod>2020-04-10T12:00:06+09:00</lastmod>
   </url>
@@ -193,22 +223,12 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/tags/air-quality/</loc>
-    <lastmod>2020-04-08T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thebooort.github.io/tags/ecollogy/</loc>
     <lastmod>2020-04-08T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://thebooort.github.io/posts/pollution_levels/</loc>
-    <lastmod>2020-04-08T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/pollution/</loc>
     <lastmod>2020-04-08T12:00:06+09:00</lastmod>
   </url>
   

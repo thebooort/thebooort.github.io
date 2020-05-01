@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Ecology on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/tags/ecology/</link>
+    <description>Recent content in Ecology on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Fri, 01 May 2020 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/tags/ecology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>El aire que respiramos durante el confinamiento (actualización con datos de abril)</title>
+        <link>https://thebooort.github.io/posts/pollution_levels_update_abril/</link>
+        <pubDate>Fri, 01 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Fri, 01 May 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/pollution_levels_update_abril/</guid>
+        <description>Image credit: Ivan Aleksic @ivalex Unsplash
+Este post es una actualización de uno más antiguo, dónde podréis encontrar información sobre dónde encontré los datos, tips para dibujar el gráfico y qué significa ¿Cómo afecta el confinamiento a los niveles de polución? Durante la cuarentena que estamos viviendo la reducción de la movilidad de las personas es evidente.
+Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de transporte público y algunas maquinarias pertenecientes a servicios que se encuentran inactivos, muchos medios se han hecho eco de la disminución en los niveles de polución ambiental.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/polucion.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Pollution</category>
+            
+          
+            
+              <category>Ecology</category>
+            
+          
+            
+              <category>Air Quality</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
