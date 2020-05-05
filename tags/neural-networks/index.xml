@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Neural Networks on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/tags/neural-networks/</link>
+    <description>Recent content in Neural Networks on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Fri, 21 Jun 2019 20:46:30 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Destripando a Keras</title>
+        <link>https://thebooort.github.io/presentation/third/</link>
+        <pubDate>Fri, 21 Jun 2019 20:46:30 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Fri, 21 Jun 2019 20:46:30 +0900</atom:modified>
+        <guid>https://thebooort.github.io/presentation/third/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/destripandokeras.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Mathematics</category>
+            
+          
+            
+              <category>Computer Science</category>
+            
+          
+            
+              <category>Machine Learning</category>
+            
+          
+            
+              <category>Deep Learning</category>
+            
+          
+            
+              <category>Keras</category>
+            
+          
+            
+              <category>Neural Networks</category>
+            
+          
+        
+        
+          
+            
+              <category>Science Communication</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

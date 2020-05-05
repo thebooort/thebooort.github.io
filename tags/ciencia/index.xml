@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Ciencia on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/tags/ciencia/</link>
+    <description>Recent content in Ciencia on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Sun, 03 May 2020 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/tags/ciencia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Algunos apuntes de CienciaEnRedes2020</title>
+        <link>https://thebooort.github.io/posts/cienciaenredes1/</link>
+        <pubDate>Sun, 03 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Sun, 03 May 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/cienciaenredes1/</guid>
+        <description>Image credit: Asociación española de Comunicación científica
+CienciaEnRedes2020 Las palabras importan: Leonor Parcero La primera charla que destaco es la ofrecida por Leonor Parcero López de la Universidad de Vido . De esta charla he sacado unas cuántas ideas que creo que son interesantes. Algunas no son nuevas, y ya había reflexionado sobre ellas antes, pero conviene tenerlas en cuenta y volver a ellas siempre que sea necesario.
+En primer lugar y como reflexión general, debemos tener en cuenta qué hacemos y cómo llamamos a lo que hacemos.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/cienciaenredes.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Comunicación</category>
+            
+          
+            
+              <category>Comunicación Científica</category>
+            
+          
+            
+              <category>LaTeX</category>
+            
+          
+            
+              <category>Ciencia</category>
+            
+          
+            
+              <category>Divulgación</category>
+            
+          
+        
+        
+          
+            
+              <category>Science Communication</category>
+            
+          
+            
+              <category>Comunicación Científica</category>
+            
+          
+        
+        
+          
+            
+              <category>Comunicación Científica</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

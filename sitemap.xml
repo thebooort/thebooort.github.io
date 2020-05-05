@@ -59,16 +59,76 @@
   
   <url>
     <loc>https://thebooort.github.io/</loc>
-    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/tags/air-quality/</loc>
-    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+    <loc>https://thebooort.github.io/posts/cienciaenredes1/</loc>
+    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://thebooort.github.io/categories/</loc>
+    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/ciencia/</loc>
+    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/comunicaci%C3%B3n/</loc>
+    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/comunicaci%C3%B3n-cient%C3%ADfica/</loc>
+    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/comunicaci%C3%B3n-cient%C3%ADfica/</loc>
+    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/comunicaci%C3%B3n-cient%C3%ADfica/</loc>
+    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/divulgaci%C3%B3n/</loc>
+    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/latex/</loc>
+    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/</loc>
+    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/science-communication/</loc>
+    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/</loc>
+    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/</loc>
+    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/air-quality/</loc>
     <lastmod>2020-05-01T12:00:06+09:00</lastmod>
   </url>
   
@@ -88,12 +148,12 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/series/data-science/</loc>
+    <loc>https://thebooort.github.io/categories/data-science/</loc>
     <lastmod>2020-05-01T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/categories/data-science/</loc>
+    <loc>https://thebooort.github.io/series/data-science/</loc>
     <lastmod>2020-05-01T12:00:06+09:00</lastmod>
   </url>
   
@@ -113,22 +173,7 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/posts/</loc>
-    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thebooort.github.io/tags/python/</loc>
-    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/series/</loc>
-    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/</loc>
     <lastmod>2020-05-01T12:00:06+09:00</lastmod>
   </url>
   
@@ -178,12 +223,12 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/tags/csgo/</loc>
+    <loc>https://thebooort.github.io/series/csgo/</loc>
     <lastmod>2020-04-23T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/series/csgo/</loc>
+    <loc>https://thebooort.github.io/tags/csgo/</loc>
     <lastmod>2020-04-23T12:00:06+09:00</lastmod>
   </url>
   
@@ -220,11 +265,6 @@
   <url>
     <loc>https://thebooort.github.io/posts/r_0granada/</loc>
     <lastmod>2020-04-10T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/ecollogy/</loc>
-    <lastmod>2020-04-08T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -363,38 +403,63 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/presentation/dir/fourth/</loc>
-    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/presentation/</loc>
-    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/presentation/third/</loc>
-    <lastmod>2019-10-30T20:46:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/presentation/second/</loc>
-    <lastmod>2019-10-30T20:45:24+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/presentation/first/</loc>
-    <lastmod>2019-10-30T19:45:20+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thebooort.github.io/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://thebooort.github.io/tags/computer-science/</loc>
+    <lastmod>2019-06-21T20:46:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/deep-learning/</loc>
+    <lastmod>2019-06-21T20:46:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/presentation/third/</loc>
+    <lastmod>2019-06-21T20:46:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/keras/</loc>
+    <lastmod>2019-06-21T20:46:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/neural-networks/</loc>
+    <lastmod>2019-06-21T20:46:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/presentation/</loc>
+    <lastmod>2019-06-21T20:46:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/presentation/second/</loc>
+    <lastmod>2019-04-05T20:45:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/power-law/</loc>
+    <lastmod>2019-04-05T20:45:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/research/</loc>
+    <lastmod>2019-04-05T20:45:24+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thebooort.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/presentation/first/</loc>
+    <lastmod>2019-02-01T19:45:20+09:00</lastmod>
   </url>
   
 </urlset>

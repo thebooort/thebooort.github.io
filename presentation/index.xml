@@ -14,7 +14,7 @@
     <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
     <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2019 20:46:30 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/presentation/index.xml" rel="self" type="application/rss+xml" />
@@ -24,55 +24,49 @@
 
       
       <item>
-        <title>Fourth</title>
-        <link>https://thebooort.github.io/presentation/dir/fourth/</link>
-        <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
-        <guid>https://thebooort.github.io/presentation/dir/fourth/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        <media:content url="https://thebooort.github.ioimages/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-          
-        
-        
-          
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>Third</title>
+        <title>Destripando a Keras</title>
         <link>https://thebooort.github.io/presentation/third/</link>
-        <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
+        <pubDate>Fri, 21 Jun 2019 20:46:30 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
-        <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
+        <atom:modified>Fri, 21 Jun 2019 20:46:30 +0900</atom:modified>
         <guid>https://thebooort.github.io/presentation/third/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
-        <media:content url="https://thebooort.github.ioimages/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://thebooort.github.ioimages/destripandokeras.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
           
             
+              <category>Mathematics</category>
+            
+          
+            
+              <category>Computer Science</category>
+            
+          
+            
+              <category>Machine Learning</category>
+            
+          
+            
+              <category>Deep Learning</category>
+            
+          
+            
+              <category>Keras</category>
+            
+          
+            
+              <category>Neural Networks</category>
+            
           
         
         
           
+            
+              <category>Science Communication</category>
             
           
         
@@ -84,25 +78,37 @@
       </item>
       
       <item>
-        <title>Second</title>
+        <title>Causal Inference</title>
         <link>https://thebooort.github.io/presentation/second/</link>
-        <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
+        <pubDate>Fri, 05 Apr 2019 20:45:24 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
-        <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
+        <atom:modified>Fri, 05 Apr 2019 20:45:24 +0900</atom:modified>
         <guid>https://thebooort.github.io/presentation/second/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
-        <media:content url="https://thebooort.github.ioimages/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://thebooort.github.ioimages/causalinf.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
           
             
+              <category>Mathematics</category>
+            
+          
+            
+              <category>Computer Science</category>
+            
+          
+            
+              <category>Power Law</category>
+            
           
         
         
           
+            
+              <category>Research</category>
             
           
         
@@ -114,25 +120,37 @@
       </item>
       
       <item>
-        <title>First</title>
+        <title>Power laws&#39; guide</title>
         <link>https://thebooort.github.io/presentation/first/</link>
-        <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
+        <pubDate>Fri, 01 Feb 2019 19:45:20 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
-        <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
+        <atom:modified>Fri, 01 Feb 2019 19:45:20 +0900</atom:modified>
         <guid>https://thebooort.github.io/presentation/first/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
-        <media:content url="https://thebooort.github.ioimages/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://thebooort.github.ioimages/powerlaw.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
           
             
+              <category>Mathematics</category>
+            
+          
+            
+              <category>Computer Science</category>
+            
+          
+            
+              <category>Power Law</category>
+            
           
         
         
           
+            
+              <category>Research</category>
             
           
         
