@@ -59,7 +59,77 @@
   
   <url>
     <loc>https://thebooort.github.io/</loc>
-    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/biolog%C3%ADa/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/ciencia/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/comunicaci%C3%B3n/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/comunicaci%C3%B3n-cient%C3%ADfica/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/comunicaci%C3%B3n-cient%C3%ADfica/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/comunicaci%C3%B3n-cient%C3%ADfica/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/divulgaci%C3%B3n/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/divulgaci%C3%B3n-cient%C3%ADfica/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/poop_and_seeds/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/science-communication/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -68,62 +138,7 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/categories/</loc>
-    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/ciencia/</loc>
-    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/comunicaci%C3%B3n/</loc>
-    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/categories/comunicaci%C3%B3n-cient%C3%ADfica/</loc>
-    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/series/comunicaci%C3%B3n-cient%C3%ADfica/</loc>
-    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/comunicaci%C3%B3n-cient%C3%ADfica/</loc>
-    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/divulgaci%C3%B3n/</loc>
-    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thebooort.github.io/tags/latex/</loc>
-    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/posts/</loc>
-    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/categories/science-communication/</loc>
-    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/series/</loc>
-    <lastmod>2020-05-03T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/</loc>
     <lastmod>2020-05-03T12:00:06+09:00</lastmod>
   </url>
   
@@ -223,12 +238,12 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/series/csgo/</loc>
+    <loc>https://thebooort.github.io/tags/csgo/</loc>
     <lastmod>2020-04-23T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/tags/csgo/</loc>
+    <loc>https://thebooort.github.io/series/csgo/</loc>
     <lastmod>2020-04-23T12:00:06+09:00</lastmod>
   </url>
   
@@ -318,12 +333,12 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/categories/kaggle/</loc>
+    <loc>https://thebooort.github.io/tags/kaggle/</loc>
     <lastmod>2020-03-28T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/tags/kaggle/</loc>
+    <loc>https://thebooort.github.io/categories/kaggle/</loc>
     <lastmod>2020-03-28T12:00:06+09:00</lastmod>
   </url>
   

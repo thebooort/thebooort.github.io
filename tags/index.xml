@@ -14,7 +14,7 @@
     <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
     <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Sun, 03 May 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -24,9 +24,27 @@
 
       
       <item>
+        <title>Biología</title>
+        <link>https://thebooort.github.io/tags/biolog%C3%ADa/</link>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/biolog%C3%ADa/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Ciencia</title>
         <link>https://thebooort.github.io/tags/ciencia/</link>
-        <pubDate>Sun, 03 May 2020 12:00:06 +0900</pubDate>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/ciencia/</guid>
@@ -44,7 +62,7 @@
       <item>
         <title>Comunicación</title>
         <link>https://thebooort.github.io/tags/comunicaci%C3%B3n/</link>
-        <pubDate>Sun, 03 May 2020 12:00:06 +0900</pubDate>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/comunicaci%C3%B3n/</guid>
@@ -62,7 +80,7 @@
       <item>
         <title>Comunicación Científica</title>
         <link>https://thebooort.github.io/tags/comunicaci%C3%B3n-cient%C3%ADfica/</link>
-        <pubDate>Sun, 03 May 2020 12:00:06 +0900</pubDate>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/comunicaci%C3%B3n-cient%C3%ADfica/</guid>
@@ -80,7 +98,7 @@
       <item>
         <title>Divulgación</title>
         <link>https://thebooort.github.io/tags/divulgaci%C3%B3n/</link>
-        <pubDate>Sun, 03 May 2020 12:00:06 +0900</pubDate>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/divulgaci%C3%B3n/</guid>
