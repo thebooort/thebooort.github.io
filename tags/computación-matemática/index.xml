@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Computación Matemática on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/tags/computaci%C3%B3n-matem%C3%A1tica/</link>
+    <description>Recent content in Computación Matemática on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Fri, 08 May 2020 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/tags/computaci%C3%B3n-matem%C3%A1tica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>20 años y 20 horas</title>
+        <link>https://thebooort.github.io/posts/moon_maxima/</link>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Fri, 08 May 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/moon_maxima/</guid>
+        <description>20 años y 20 horas Quiero invitarte a reflexionar: ¿dónde estabas hace 20 años?
+Echar la vista atrás tanto tiempo puede ser complicado, pero es necesario para el tema que queremos tratar hoy. En un periodo tan largo caben muchas experiencias, tanto buenas como malas. Incluso, dependiendo del lector, ese período puede que abarque toda su existencia.
+Y antes de que empieces a sentir vértigo por lo rápido que pasa la vida y lo viejo/a que te encuentras, quiero que te quedes con esa visión de la enorme cantidad de tiempo que suponen 20 años, 175.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/moon.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Comunicación</category>
+            
+          
+            
+              <category>Comunicación Científica</category>
+            
+          
+            
+              <category>Ciencia</category>
+            
+          
+            
+              <category>Divulgación</category>
+            
+          
+            
+              <category>Matemáticas</category>
+            
+          
+            
+              <category>Algebra</category>
+            
+          
+            
+              <category>Computación</category>
+            
+          
+            
+              <category>Computación Matemática</category>
+            
+          
+        
+        
+          
+            
+              <category>Science Communication</category>
+            
+          
+            
+              <category>Comunicación Científica</category>
+            
+          
+        
+        
+          
+            
+              <category>Comunicación Científica</category>
+            
+          
+            
+              <category>Divulgación científica</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
