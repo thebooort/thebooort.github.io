@@ -1220,7 +1220,7 @@
     <meta property="twitter:description" content="Evolución de los niveles de polución en Granada durante la cuarentena">
   
 
-<meta name="generator" content="Hugo 0.61.0" />
+<meta name="generator" content="Hugo 0.68.3" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1663,7 +1663,7 @@
   <div class="expand__content expand__content--toc">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#qu-buscamos">¿Qué buscamos?</a></li>
+    <li><a href="#qué-buscamos">¿Qué buscamos?</a></li>
     <li><a href="#getting-the-data">Getting the data</a></li>
     <li><a href="#analyzing-the-data">Analyzing the data</a></li>
     <li><a href="#plot">Plot</a></li>
@@ -1674,13 +1674,13 @@
 </div>
 
       <p>Image credit: <a href="https://unsplash.com/photos/WrYM0tBbYj0">Ivan Aleksic @ivalex Unsplash</a></p>
-<h1 id="cmo-afecta-el-confinamiento-a-los-niveles-de-polucin">¿Cómo afecta el confinamiento a los niveles de polución?</h1>
+<h1 id="cómo-afecta-el-confinamiento-a-los-niveles-de-polución">¿Cómo afecta el confinamiento a los niveles de polución?</h1>
 <p>Durante la cuarentena que estamos viviendo la reducción de la movilidad de las personas es evidente.<br />
 Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de transporte público y algunas maquinarias pertenecientes a servicios que se encuentran inactivos, muchos <a href="https://www.sciencealert.com/here-s-what-covid-19-is-doing-to-our-pollution-levels">medios se han hecho eco de la disminución en los niveles de polución ambiental</a>. Es más, al ser COVID una enfermedad que afecta a las vías respiratorias, ya hay algunos analisis que relacionan la polución del aire con tasas de moratilidad mas altas por COVID.</p>
 <p>Por este motivo me pareció interesante estudiar el caso de la ciudad en la que resido: Granada(España).</p>
 <p>La evidencia muestra que los niveles de polución han bajado, pero ¿cómo sabemos esto?.<br />
 Para contestar a esto vamos a tomar dos enfoques: primero, conocer qué buscamos en el aire para mediar su calidad, y, segundo, conocer alguna técnica que nos ofrezca los datos necesarios para nuestro análisis.</p>
-<h2 id="qu-buscamos">¿Qué buscamos?</h2>
+<h2 id="qué-buscamos">¿Qué buscamos?</h2>
 <p>La <a href="http://www.troposfera.org/conceptos/calidad-aire/">calidad del aire</a> se mide en relación a la presencia y cantidad de determinados contaminantes en el aire. Los principales contaminantes monitorizados suelen estar determinados por la legislación vigente, que también determina qué baremos se utilizan para evaluar cada uno.</p>
 <p>Aun así, hay una <a href="http://movil.asturias.es/portal/site/medioambiente/menuitem.1340904a2df84e62fe47421ca6108a0c/?vgnextoid=daca2ae109539210VgnVCM10000097030a0aRCRD&amp;vgnextchannel=761ab1cc11b6a110VgnVCM1000006a01a8c0RCRD&amp;i18n.http.lang=es">gran variedad de contaminantes</a> sobre los cuales existe un conseso (en cuanto a su peligrosidad) y que son monitorizados habitualmente en estaciones medidoras de calidad del aire (habitualmente en ciudades). Algunos ejemplos son:</p>
 <ul>
@@ -1704,8 +1704,8 @@ Para contestar a esto vamos a tomar dos enfoques: primero, conocer qué buscamos
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">no2_df_2020</span><span class="p">[</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">date</span><span class="s1">&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">to_datetime</span><span class="p">(</span><span class="n">no2_df_2020</span><span class="p">[</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">date_time</span><span class="s1">&#39;</span><span class="p">]</span><span class="p">)</span>
-<span class="n">no2_df_2019</span><span class="p">[</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">date</span><span class="s1">&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">to_datetime</span><span class="p">(</span><span class="n">no2_df_2019</span><span class="p">[</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">date_time</span><span class="s1">&#39;</span><span class="p">]</span><span class="p">)</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">no2_df_2020</span><span class="p">[</span><span class="s1">&#39;date&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">to_datetime</span><span class="p">(</span><span class="n">no2_df_2020</span><span class="p">[</span><span class="s1">&#39;date_time&#39;</span><span class="p">])</span>
+<span class="n">no2_df_2019</span><span class="p">[</span><span class="s1">&#39;date&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">to_datetime</span><span class="p">(</span><span class="n">no2_df_2019</span><span class="p">[</span><span class="s1">&#39;date_time&#39;</span><span class="p">])</span>
 </code></pre></td></tr></table>
 </div>
 </div><p>En este aspecto ospuede ayudar strftime, pues que en muchas ocasiones os vais a encontrar fechas en formatos muy diferentes. Es habitual tambien que algunas librerías requieran el formato de año-mes-dia , o mes-dia-año, para todas estas ocasiones con strftime podéis salir del paso.<br />
@@ -1715,7 +1715,7 @@ Para contestar a esto vamos a tomar dos enfoques: primero, conocer qué buscamos
 <pre class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">df</span><span class="p">[</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">date</span><span class="s1">&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">to_datetime</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="sa"></span><span class="s2">&#34;</span><span class="s2">date</span><span class="s2">&#34;</span><span class="p">]</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="sa"></span><span class="s1">&#39;</span><span class="si">%d</span><span class="s1">/</span><span class="s1">%</span><span class="s1">m/</span><span class="s1">%</span><span class="s1">Y</span><span class="s1">&#39;</span><span class="p">)</span><span class="p">)</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">df</span><span class="p">[</span><span class="s1">&#39;date&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">to_datetime</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="s2">&#34;date&#34;</span><span class="p">]</span><span class="o">.</span><span class="n">dt</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s1">&#39;</span><span class="si">%d</span><span class="s1">/%m/%Y&#39;</span><span class="p">))</span>
 </code></pre></td></tr></table>
 </div>
 </div><p>Y bueno, como ya sabéis empecé a usar bokeh hace poco, asi que esto era una situación perfecta para poner a prueba mis conocimientos.</p>
@@ -1732,8 +1732,8 @@ Para contestar a esto vamos a tomar dos enfoques: primero, conocer qué buscamos
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">low_box</span> <span class="o">=</span> <span class="n">BoxAnnotation</span><span class="p">(</span><span class="n">top</span><span class="o">=</span><span class="mi">40</span><span class="p">,</span> <span class="n">fill_alpha</span><span class="o">=</span><span class="mf">0.1</span><span class="p">,</span> <span class="n">fill_color</span><span class="o">=</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">green</span><span class="s1">&#39;</span><span class="p">)</span>
-<span class="n">top_box</span> <span class="o">=</span> <span class="n">BoxAnnotation</span><span class="p">(</span><span class="n">bottom</span><span class="o">=</span><span class="mi">40</span><span class="p">,</span> <span class="n">top</span><span class="o">=</span><span class="mi">80</span><span class="p">,</span> <span class="n">fill_alpha</span><span class="o">=</span><span class="mf">0.1</span><span class="p">,</span> <span class="n">fill_color</span><span class="o">=</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">red</span><span class="s1">&#39;</span><span class="p">)</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">low_box</span> <span class="o">=</span> <span class="n">BoxAnnotation</span><span class="p">(</span><span class="n">top</span><span class="o">=</span><span class="mi">40</span><span class="p">,</span> <span class="n">fill_alpha</span><span class="o">=</span><span class="mf">0.1</span><span class="p">,</span> <span class="n">fill_color</span><span class="o">=</span><span class="s1">&#39;green&#39;</span><span class="p">)</span>
+<span class="n">top_box</span> <span class="o">=</span> <span class="n">BoxAnnotation</span><span class="p">(</span><span class="n">bottom</span><span class="o">=</span><span class="mi">40</span><span class="p">,</span> <span class="n">top</span><span class="o">=</span><span class="mi">80</span><span class="p">,</span> <span class="n">fill_alpha</span><span class="o">=</span><span class="mf">0.1</span><span class="p">,</span> <span class="n">fill_color</span><span class="o">=</span><span class="s1">&#39;red&#39;</span><span class="p">)</span>
 <span class="n">p1</span><span class="o">.</span><span class="n">add_layout</span><span class="p">(</span><span class="n">low_box</span><span class="p">)</span>
 <span class="n">p1</span><span class="o">.</span><span class="n">add_layout</span><span class="p">(</span><span class="n">top_box</span><span class="p">)</span>
 </code></pre></td></tr></table>
@@ -1753,12 +1753,12 @@ Para contestar a esto vamos a tomar dos enfoques: primero, conocer qué buscamos
 <td class="lntd">
 <pre class="chroma"><code class="language-python" data-lang="python"><span class="kn">from</span> <span class="nn">bokeh.models</span> <span class="kn">import</span> <span class="n">Legend</span>
 <span class="n">legend</span> <span class="o">=</span> <span class="n">Legend</span><span class="p">(</span><span class="n">items</span><span class="o">=</span><span class="p">[</span>
-    <span class="p">(</span><span class="sa"></span><span class="s2">&#34;</span><span class="s2">2020</span><span class="s2">&#34;</span>   <span class="p">,</span> <span class="p">[</span><span class="n">r1</span><span class="p">,</span><span class="n">r2</span><span class="p">]</span><span class="p">)</span><span class="p">,</span>
-    <span class="p">(</span><span class="sa"></span><span class="s2">&#34;</span><span class="s2">2019</span><span class="s2">&#34;</span> <span class="p">,</span> <span class="p">[</span><span class="n">r3</span><span class="p">,</span> <span class="n">r4</span><span class="p">]</span><span class="p">)</span><span class="p">,</span>
+    <span class="p">(</span><span class="s2">&#34;2020&#34;</span>   <span class="p">,</span> <span class="p">[</span><span class="n">r1</span><span class="p">,</span><span class="n">r2</span><span class="p">]),</span>
+    <span class="p">(</span><span class="s2">&#34;2019&#34;</span> <span class="p">,</span> <span class="p">[</span><span class="n">r3</span><span class="p">,</span> <span class="n">r4</span><span class="p">]),</span>
 
-<span class="p">]</span><span class="p">,</span> <span class="n">location</span><span class="o">=</span><span class="sa"></span><span class="s2">&#34;</span><span class="s2">center</span><span class="s2">&#34;</span><span class="p">)</span>
+<span class="p">],</span> <span class="n">location</span><span class="o">=</span><span class="s2">&#34;center&#34;</span><span class="p">)</span>
 
-<span class="n">p1</span><span class="o">.</span><span class="n">add_layout</span><span class="p">(</span><span class="n">legend</span><span class="p">,</span> <span class="sa"></span><span class="s1">&#39;</span><span class="s1">right</span><span class="s1">&#39;</span><span class="p">)</span>
+<span class="n">p1</span><span class="o">.</span><span class="n">add_layout</span><span class="p">(</span><span class="n">legend</span><span class="p">,</span> <span class="s1">&#39;right&#39;</span><span class="p">)</span>
 </code></pre></td></tr></table>
 </div>
 </div><h2 id="conclusions">Conclusions!</h2>
@@ -2398,7 +2398,7 @@ document.addEventListener('DOMContentLoaded', function () {
   <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#qu-buscamos">¿Qué buscamos?</a></li>
+    <li><a href="#qué-buscamos">¿Qué buscamos?</a></li>
     <li><a href="#getting-the-data">Getting the data</a></li>
     <li><a href="#analyzing-the-data">Analyzing the data</a></li>
     <li><a href="#plot">Plot</a></li>

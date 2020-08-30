@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://thebooort.github.io/showcase/coding/tpc/</loc>
+    <lastmod>2020-08-20T21:13:42+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thebooort.github.io/showcase/asociaciones/amat/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
@@ -58,8 +63,83 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/</loc>
-    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+    <loc>https://thebooort.github.io/tags/baduk/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/baduk/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/baduk/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/coding/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/data/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/data-science/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/data-science/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/go/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/machine-learning/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/python/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/visualization/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/baduk-go-winning-probabilities-2/</loc>
+    <lastmod>2020-08-30T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -74,11 +154,6 @@
   
   <url>
     <loc>https://thebooort.github.io/tags/biolog%C3%ADa/</loc>
-    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/categories/</loc>
     <lastmod>2020-05-08T12:00:06+09:00</lastmod>
   </url>
   
@@ -103,17 +178,17 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/categories/comunicaci%C3%B3n-cient%C3%ADfica/</loc>
-    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thebooort.github.io/tags/comunicaci%C3%B3n-cient%C3%ADfica/</loc>
     <lastmod>2020-05-08T12:00:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://thebooort.github.io/series/comunicaci%C3%B3n-cient%C3%ADfica/</loc>
+    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/comunicaci%C3%B3n-cient%C3%ADfica/</loc>
     <lastmod>2020-05-08T12:00:06+09:00</lastmod>
   </url>
   
@@ -138,22 +213,7 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/posts/</loc>
-    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thebooort.github.io/categories/science-communication/</loc>
-    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/series/</loc>
-    <lastmod>2020-05-08T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/</loc>
     <lastmod>2020-05-08T12:00:06+09:00</lastmod>
   </url>
   
@@ -173,27 +233,7 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/categories/coding/</loc>
-    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thebooort.github.io/tags/covid19/</loc>
-    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/data/</loc>
-    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/categories/data-science/</loc>
-    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/series/data-science/</loc>
     <lastmod>2020-05-01T12:00:06+09:00</lastmod>
   </url>
   
@@ -213,13 +253,8 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/tags/python/</loc>
-    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/visualization/</loc>
-    <lastmod>2020-05-01T12:00:06+09:00</lastmod>
+    <loc>https://thebooort.github.io/tags/r/</loc>
+    <lastmod>2020-04-30T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -230,31 +265,6 @@
   <url>
     <loc>https://thebooort.github.io/posts/where-to-run/</loc>
     <lastmod>2020-04-30T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/baduk/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/series/baduk/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/categories/baduk/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/go/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/machine-learning/</loc>
-    <lastmod>2020-04-26T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -289,11 +299,6 @@
   
   <url>
     <loc>https://thebooort.github.io/tags/mathematics/</loc>
-    <lastmod>2020-04-10T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/r/</loc>
     <lastmod>2020-04-10T12:00:06+09:00</lastmod>
   </url>
   
@@ -358,12 +363,12 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/categories/kaggle/</loc>
+    <loc>https://thebooort.github.io/tags/kaggle/</loc>
     <lastmod>2020-03-28T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/tags/kaggle/</loc>
+    <loc>https://thebooort.github.io/categories/kaggle/</loc>
     <lastmod>2020-03-28T12:00:06+09:00</lastmod>
   </url>
   
@@ -433,6 +438,11 @@
   </url>
   
   <url>
+    <loc>https://thebooort.github.io/showcase/coding/</loc>
+    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url>
@@ -493,6 +503,11 @@
   </url>
   
   <url>
+    <loc>https://thebooort.github.io/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thebooort.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
@@ -500,6 +515,10 @@
   <url>
     <loc>https://thebooort.github.io/presentation/first/</loc>
     <lastmod>2019-02-01T19:45:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/index/</loc>
   </url>
   
 </urlset>

@@ -1220,7 +1220,7 @@
     <meta property="twitter:description" content="Graficos sobre COVID19 usando bokeh">
   
 
-<meta name="generator" content="Hugo 0.61.0" />
+<meta name="generator" content="Hugo 0.68.3" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1643,19 +1643,19 @@
   <div class="expand__content expand__content--toc">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#covid19---grficos-de-europa">COVID19 - Gráficos de Europa</a>
+    <li><a href="#covid19---gráficos-de-europa">COVID19 - Gráficos de Europa</a>
       <ul>
         <li><a href="#graficos">Graficos</a>
           <ul>
-            <li><a href="#grfico-interactivo-de-casos-y-muertes">Gráfico interactivo de casos y muertes</a></li>
-            <li><a href="#grfico-interactivo-de-casos-y-muertes-1">Gráfico interactivo de casos y muertes</a></li>
+            <li><a href="#gráfico-interactivo-de-casos-y-muertes">Gráfico interactivo de casos y muertes</a></li>
+            <li><a href="#gráfico-interactivo-de-casos-y-muertes-1">Gráfico interactivo de casos y muertes</a></li>
             <li><a href="#extra-el-dashboard-de-la-johns-hopkins-university">Extra: El dashboard de la Johns Hopkins University</a></li>
           </ul>
         </li>
         <li><a href="#data-source">Data Source</a></li>
-        <li><a href="#libreras-usadas">Librerías usadas</a>
+        <li><a href="#librerías-usadas">Librerías usadas</a>
           <ul>
-            <li><a href="#con-esta-parte-creo-que-aparco-de-momento-esta-serie-de-covidbokeh-en-pos-de-hacer-algn-post-sobre-otras-herramientas-no-obstante-no-descarto-volver-en-breve-el-tema-de-la-visualizacin-me-gusta-mucho">Con esta parte creo que aparco de momento esta serie de COVID+Bokeh en pos de hacer algún post sobre otras herramientas. No obstante, no descarto volver en breve, el tema de la visualización me gusta mucho.</a></li>
+            <li><a href="#con-esta-parte-creo-que-aparco-de-momento-esta-serie-de-covidbokeh-en-pos-de-hacer-algún-post-sobre-otras-herramientas-no-obstante-no-descarto-volver-en-breve-el-tema-de-la-visualización-me-gusta-mucho">Con esta parte creo que aparco de momento esta serie de COVID+Bokeh en pos de hacer algún post sobre otras herramientas. No obstante, no descarto volver en breve, el tema de la visualización me gusta mucho.</a></li>
           </ul>
         </li>
       </ul>
@@ -1668,7 +1668,7 @@
       <p>Este post continúa la serie sobre visualización del COVID-19. La motivación para hacerla no es otra que ocupar los ratos muertos de la cuarentena para aprender a crear gráficos interactivos con Bokeh.</p>
 <p>Y de paso ofrecer un vistazo objetivo a los datos que nos llegan sobre la enfermedad. Sé que suena un poco raro pero ya que voy a estar dándole vueltas al tema, tener este enfoque objetivo me ayuda a sobrellevarlo.</p>
 <p>En cuanto depure los códigos los subo a github y tendréis el enlace aquí:</p>
-<h2 id="covid19---grficos-de-europa">COVID19 - Gráficos de Europa</h2>
+<h2 id="covid19---gráficos-de-europa">COVID19 - Gráficos de Europa</h2>
 <p>Para cerrar (por ahora) esta introducción que me estoy haciendo a la biblioteca Bokeh, quería aportar luz sobre la evolución de la enfermedad por el mundo.</p>
 <p>Ni por estudios ni por trabajo, nunca me ha tocado trabajar con datos geográficos. Es por eso que quería llenar un poco la laguna que tengo a la hora de representarlos gráficamente. He visto que bokeh es un excelente recurso para eso, asi que me he lanzado a sacarle partido.</p>
 <p>En esta ocasión estoy siguiendo un <a href="https://towardsdatascience.com/a-complete-guide-to-an-interactive-geographical-map-using-python-f4c5197e23e0">tutorial de Shivangi Patel</a>.</p>
@@ -1677,11 +1677,11 @@
 <p>Por otra parte, he aprovechado para trabajar con geopandas y empaparme un poco del tema de datos geográficos. Lamentablemente el dataset consultado usaba un GEOID un tanto raro, que no he conseguido acoplar correactamente al archivo shapes (no usa el estandar de codificacion de países de 3 letras, y no coincide con los que he visto de 2 letras), con lo que la info de algunos países a pesar de tenerla, no está visible.</p>
 <p>En cualquier caso, como introducción, contento con los resultados.</p>
 <h3 id="graficos">Graficos</h3>
-<h4 id="grfico-interactivo-de-casos-y-muertes">Gráfico interactivo de casos y muertes</h4>
+<h4 id="gráfico-interactivo-de-casos-y-muertes">Gráfico interactivo de casos y muertes</h4>
 <p>Aquí aproveche para manejar pestañas y ofrecer en el mismo grafico la posibilidad de consultar ambas variables en el mundo. Probé con los hover, pero no me encajaron mucho y decidí que esta era la mejor opción.</p>
 <iframe width="100%" height="700" src="/images/covid_plot/my_first_map.html">
 </iframe>
-<h4 id="grfico-interactivo-de-casos-y-muertes-1">Gráfico interactivo de casos y muertes</h4>
+<h4 id="gráfico-interactivo-de-casos-y-muertes-1">Gráfico interactivo de casos y muertes</h4>
 <p>Finalmente añadí la interacción al gráfico de manera que se acualice a cada paso. La verdad que el data set ha mostrado ser insuficiente, con muchos valores perdidos. No obstante, creo que el caso de Italia (podéis hacer zoom :) ) se ve bastante bien como empeora el color.</p>
 <p>Os dejo por aquí el video del resultado</p>
 
@@ -1694,13 +1694,13 @@
 <iframe width="650" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="2019-nCoV" src="/gisanddata.maps.arcgis.com/apps/Embed/index.html?webmap=14aa9e5660cf42b5b4b546dec6ceec7c&extent=77.3846,11.535,163.5174,52.8632&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe>
 <h3 id="data-source">Data Source</h3>
 <p>Todos los datos están obtenidos de <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide">ECDC COVID-19</a></p>
-<h3 id="libreras-usadas">Librerías usadas</h3>
+<h3 id="librerías-usadas">Librerías usadas</h3>
 <ul>
 <li><a href="https://bokeh.org/">Bokeh</a></li>
 <li><a href="https://pandas.pydata.org/">Pandas</a></li>
 <li><a href="https://geopandas.org/">GeoPandas</a></li>
 </ul>
-<h4 id="con-esta-parte-creo-que-aparco-de-momento-esta-serie-de-covidbokeh-en-pos-de-hacer-algn-post-sobre-otras-herramientas-no-obstante-no-descarto-volver-en-breve-el-tema-de-la-visualizacin-me-gusta-mucho">Con esta parte creo que aparco de momento esta serie de COVID+Bokeh en pos de hacer algún post sobre otras herramientas. No obstante, no descarto volver en breve, el tema de la visualización me gusta mucho.</h4>
+<h4 id="con-esta-parte-creo-que-aparco-de-momento-esta-serie-de-covidbokeh-en-pos-de-hacer-algún-post-sobre-otras-herramientas-no-obstante-no-descarto-volver-en-breve-el-tema-de-la-visualización-me-gusta-mucho">Con esta parte creo que aparco de momento esta serie de COVID+Bokeh en pos de hacer algún post sobre otras herramientas. No obstante, no descarto volver en breve, el tema de la visualización me gusta mucho.</h4>
 
     </article>
     
@@ -2323,19 +2323,19 @@ document.addEventListener('DOMContentLoaded', function () {
   <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#covid19---grficos-de-europa">COVID19 - Gráficos de Europa</a>
+    <li><a href="#covid19---gráficos-de-europa">COVID19 - Gráficos de Europa</a>
       <ul>
         <li><a href="#graficos">Graficos</a>
           <ul>
-            <li><a href="#grfico-interactivo-de-casos-y-muertes">Gráfico interactivo de casos y muertes</a></li>
-            <li><a href="#grfico-interactivo-de-casos-y-muertes-1">Gráfico interactivo de casos y muertes</a></li>
+            <li><a href="#gráfico-interactivo-de-casos-y-muertes">Gráfico interactivo de casos y muertes</a></li>
+            <li><a href="#gráfico-interactivo-de-casos-y-muertes-1">Gráfico interactivo de casos y muertes</a></li>
             <li><a href="#extra-el-dashboard-de-la-johns-hopkins-university">Extra: El dashboard de la Johns Hopkins University</a></li>
           </ul>
         </li>
         <li><a href="#data-source">Data Source</a></li>
-        <li><a href="#libreras-usadas">Librerías usadas</a>
+        <li><a href="#librerías-usadas">Librerías usadas</a>
           <ul>
-            <li><a href="#con-esta-parte-creo-que-aparco-de-momento-esta-serie-de-covidbokeh-en-pos-de-hacer-algn-post-sobre-otras-herramientas-no-obstante-no-descarto-volver-en-breve-el-tema-de-la-visualizacin-me-gusta-mucho">Con esta parte creo que aparco de momento esta serie de COVID+Bokeh en pos de hacer algún post sobre otras herramientas. No obstante, no descarto volver en breve, el tema de la visualización me gusta mucho.</a></li>
+            <li><a href="#con-esta-parte-creo-que-aparco-de-momento-esta-serie-de-covidbokeh-en-pos-de-hacer-algún-post-sobre-otras-herramientas-no-obstante-no-descarto-volver-en-breve-el-tema-de-la-visualización-me-gusta-mucho">Con esta parte creo que aparco de momento esta serie de COVID+Bokeh en pos de hacer algún post sobre otras herramientas. No obstante, no descarto volver en breve, el tema de la visualización me gusta mucho.</a></li>
           </ul>
         </li>
       </ul>

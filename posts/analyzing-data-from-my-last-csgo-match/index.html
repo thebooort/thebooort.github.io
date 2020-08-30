@@ -1220,7 +1220,7 @@
     <meta property="twitter:description" content="Analyzing data from my last Counter Strike (FPS) match and using it to improve">
   
 
-<meta name="generator" content="Hugo 0.61.0" />
+<meta name="generator" content="Hugo 0.68.3" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1694,7 +1694,7 @@
 <p>The game pits two teams against each other: the Terrorists and the Counter-Terrorists. Both sides are tasked with eliminating the other while also completing separate objectives. The Terrorists, depending on the game mode, must either plant the bomb or defend the hostages, while the Counter-Terrorists must either prevent the bomb from being planted, defuse the bomb, or rescue the hostages.</p>
 <p>In competitive mode, 30 rounds are played, first team to get 16 victories wins.</p>
 <p>During COVID19 quarentine some friends invite me to play for the first time, and, despite I am not even close to good at it, I have a lot of fun playing it. After my first 10 wins, when I understood the game strategies a little bit more, I began to wonder if my positioning were good or if I was able to use grenades and other utilities correctly. So I decided to approach possible answers to this question with data science.</p>
-<p>In this first part I'm going to analyze where and how to throw grenades, as I do not use them at all.</p>
+<p>In this first part I&rsquo;m going to analyze where and how to throw grenades, as I do not use them at all.</p>
 <h2 id="utilities">Utilities</h2>
 <p>(data from <a href="http://team-dignitas.net/articles/blogs/CSGO/10641/a-csgo-guide-to-your-utility">eSports team Dignitas</a> )<br />
 The grenades that I am going to analyze are:</p>
@@ -1705,7 +1705,7 @@ The grenades that I am going to analyze are:</p>
 <ul>
 <li>The Smoke Grenade</li>
 </ul>
-<p>The smoke grenade instantly creates a thick, medium-sized (288 units diameter, or 144 units radius) smoke screen that lasts for 18 seconds after the fuse expires. The smoke screen is largely opaque except at the corners, blocking players&rsquo; vision. If a player enters the smoke, the player's weapon model will fade slightly and all vision will be obscured, even at zero range.</p>
+<p>The smoke grenade instantly creates a thick, medium-sized (288 units diameter, or 144 units radius) smoke screen that lasts for 18 seconds after the fuse expires. The smoke screen is largely opaque except at the corners, blocking players&rsquo; vision. If a player enters the smoke, the player&rsquo;s weapon model will fade slightly and all vision will be obscured, even at zero range.</p>
 <ul>
 <li>The Molotov/Incendiary Grenade</li>
 </ul>
@@ -1768,22 +1768,22 @@ It should be noted that you can put out any flames caused by an incendiary or a 
 <td class="lntd">
 <pre class="chroma"><code class="language-python" data-lang="python"><span class="c1"># Code modified from the one used by billfreeman44 | See his kernel : https://www.kaggle.com/billfreeman44/finding-classic-smokes-by-t-side-on-mirage </span>
 <span class="c1"># map data: https://github.com/akiver/CSGO-Demos-Manager/tree/master/Core/Models/Maps</span>
-<span class="k">def</span> <span class="nf">pointx_to_resolutionx</span><span class="p">(</span><span class="n">xinput</span><span class="p">,</span><span class="n">startX</span><span class="o">=</span><span class="o">-</span><span class="mi">2222</span><span class="p">,</span><span class="n">endX</span><span class="o">=</span><span class="mi">3561</span><span class="p">,</span><span class="n">resX</span><span class="o">=</span><span class="mi">1160</span><span class="p">)</span><span class="p">:</span>
+<span class="k">def</span> <span class="nf">pointx_to_resolutionx</span><span class="p">(</span><span class="n">xinput</span><span class="p">,</span><span class="n">startX</span><span class="o">=-</span><span class="mi">2222</span><span class="p">,</span><span class="n">endX</span><span class="o">=</span><span class="mi">3561</span><span class="p">,</span><span class="n">resX</span><span class="o">=</span><span class="mi">1160</span><span class="p">):</span>
     <span class="n">sizeX</span><span class="o">=</span><span class="n">endX</span><span class="o">-</span><span class="n">startX</span>
     <span class="k">if</span> <span class="n">startX</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">:</span>
-        <span class="n">xinput</span> <span class="o">+</span><span class="o">=</span> <span class="n">startX</span> <span class="o">*</span><span class="p">(</span><span class="o">-</span><span class="mf">1.0</span><span class="p">)</span>
+        <span class="n">xinput</span> <span class="o">+=</span> <span class="n">startX</span> <span class="o">*</span><span class="p">(</span><span class="o">-</span><span class="mf">1.0</span><span class="p">)</span>
     <span class="k">else</span><span class="p">:</span>
-        <span class="n">xinput</span> <span class="o">+</span><span class="o">=</span> <span class="n">startX</span>
-    <span class="n">xoutput</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="p">(</span><span class="n">xinput</span> <span class="o">/</span> <span class="nb">abs</span><span class="p">(</span><span class="n">sizeX</span><span class="p">)</span><span class="p">)</span> <span class="o">*</span> <span class="n">resX</span><span class="p">)</span><span class="p">;</span>
+        <span class="n">xinput</span> <span class="o">+=</span> <span class="n">startX</span>
+    <span class="n">xoutput</span> <span class="o">=</span> <span class="nb">float</span><span class="p">((</span><span class="n">xinput</span> <span class="o">/</span> <span class="nb">abs</span><span class="p">(</span><span class="n">sizeX</span><span class="p">))</span> <span class="o">*</span> <span class="n">resX</span><span class="p">);</span>
     <span class="k">return</span> <span class="n">xoutput</span><span class="o">-</span><span class="mi">15</span>
 
-<span class="k">def</span> <span class="nf">pointy_to_resolutiony</span><span class="p">(</span><span class="n">yinput</span><span class="p">,</span><span class="n">startY</span><span class="o">=</span><span class="o">-</span><span class="mi">1649</span><span class="p">,</span><span class="n">endY</span><span class="o">=</span><span class="mi">4408</span><span class="p">,</span><span class="n">resY</span><span class="o">=</span><span class="mi">1250</span><span class="p">)</span><span class="p">:</span>
+<span class="k">def</span> <span class="nf">pointy_to_resolutiony</span><span class="p">(</span><span class="n">yinput</span><span class="p">,</span><span class="n">startY</span><span class="o">=-</span><span class="mi">1649</span><span class="p">,</span><span class="n">endY</span><span class="o">=</span><span class="mi">4408</span><span class="p">,</span><span class="n">resY</span><span class="o">=</span><span class="mi">1250</span><span class="p">):</span>
     <span class="n">sizeY</span><span class="o">=</span><span class="n">endY</span><span class="o">-</span><span class="n">startY</span>
     <span class="k">if</span> <span class="n">startY</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">:</span>
-        <span class="n">yinput</span> <span class="o">+</span><span class="o">=</span> <span class="n">startY</span> <span class="o">*</span><span class="p">(</span><span class="o">-</span><span class="mf">1.0</span><span class="p">)</span>
+        <span class="n">yinput</span> <span class="o">+=</span> <span class="n">startY</span> <span class="o">*</span><span class="p">(</span><span class="o">-</span><span class="mf">1.0</span><span class="p">)</span>
     <span class="k">else</span><span class="p">:</span>
-        <span class="n">yinput</span> <span class="o">+</span><span class="o">=</span> <span class="n">startY</span>
-    <span class="n">youtput</span> <span class="o">=</span> <span class="nb">float</span><span class="p">(</span><span class="p">(</span><span class="n">yinput</span> <span class="o">/</span> <span class="nb">abs</span><span class="p">(</span><span class="n">sizeY</span><span class="p">)</span><span class="p">)</span> <span class="o">*</span> <span class="n">resY</span><span class="p">)</span><span class="p">;</span>
+        <span class="n">yinput</span> <span class="o">+=</span> <span class="n">startY</span>
+    <span class="n">youtput</span> <span class="o">=</span> <span class="nb">float</span><span class="p">((</span><span class="n">yinput</span> <span class="o">/</span> <span class="nb">abs</span><span class="p">(</span><span class="n">sizeY</span><span class="p">))</span> <span class="o">*</span> <span class="n">resY</span><span class="p">);</span>
     <span class="k">return</span> <span class="n">resY</span><span class="o">-</span><span class="n">youtput</span><span class="o">-</span><span class="mi">120</span>
 </code></pre></td></tr></table>
 </div>
@@ -1803,14 +1803,14 @@ It should be noted that you can put out any flames caused by an incendiary or a 
 </span></code></pre></td>
 <td class="lntd">
 <pre class="chroma"><code class="language-python" data-lang="python"><span class="c1"># Code modified from the one used by billfreeman44 | See his kernel : https://www.kaggle.com/billfreeman44/finding-classic-smokes-by-t-side-on-mirage </span>
-<span class="n">im</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">imread</span><span class="p">(</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">../input/de_inferno.png</span><span class="s1">&#39;</span><span class="p">)</span>
-<span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span><span class="mi">15</span><span class="p">)</span><span class="p">)</span>
+<span class="n">im</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">imread</span><span class="p">(</span><span class="s1">&#39;../input/de_inferno.png&#39;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span><span class="mi">15</span><span class="p">))</span>
 <span class="n">t</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">imshow</span><span class="p">(</span><span class="n">im</span><span class="p">)</span>
-<span class="n">t</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">csgo_sm_small</span><span class="p">[</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">grenade_xpos</span><span class="s1">&#39;</span><span class="p">]</span><span class="p">,</span> <span class="n">csgo_sm_small</span><span class="p">[</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">grenade_ypos</span><span class="s1">&#39;</span><span class="p">]</span><span class="p">,</span><span class="n">alpha</span><span class="o">=</span><span class="mf">0.05</span><span class="p">,</span><span class="n">c</span><span class="o">=</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">blue</span><span class="s1">&#39;</span><span class="p">)</span>
-<span class="n">t</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">csgo_sm_small</span><span class="p">[</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">att_xpos</span><span class="s1">&#39;</span><span class="p">]</span><span class="p">,</span> <span class="n">csgo_sm_small</span><span class="p">[</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">att_ypos</span><span class="s1">&#39;</span><span class="p">]</span><span class="p">,</span><span class="n">alpha</span><span class="o">=</span><span class="mf">0.05</span><span class="p">,</span><span class="n">c</span><span class="o">=</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">red</span><span class="s1">&#39;</span><span class="p">)</span>
+<span class="n">t</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">csgo_sm_small</span><span class="p">[</span><span class="s1">&#39;grenade_xpos&#39;</span><span class="p">],</span> <span class="n">csgo_sm_small</span><span class="p">[</span><span class="s1">&#39;grenade_ypos&#39;</span><span class="p">],</span><span class="n">alpha</span><span class="o">=</span><span class="mf">0.05</span><span class="p">,</span><span class="n">c</span><span class="o">=</span><span class="s1">&#39;blue&#39;</span><span class="p">)</span>
+<span class="n">t</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">scatter</span><span class="p">(</span><span class="n">csgo_sm_small</span><span class="p">[</span><span class="s1">&#39;att_xpos&#39;</span><span class="p">],</span> <span class="n">csgo_sm_small</span><span class="p">[</span><span class="s1">&#39;att_ypos&#39;</span><span class="p">],</span><span class="n">alpha</span><span class="o">=</span><span class="mf">0.05</span><span class="p">,</span><span class="n">c</span><span class="o">=</span><span class="s1">&#39;red&#39;</span><span class="p">)</span>
 <span class="c1"># we can also plot trayectories</span>
-<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="nb">len</span><span class="p">(</span><span class="n">grenade_number</span><span class="p">)</span><span class="p">)</span><span class="p">:</span>
-    <span class="n">t</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="p">[</span><span class="n">a_x</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="p">,</span><span class="n">nade_x</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="p">]</span><span class="p">,</span><span class="p">[</span><span class="n">a_y</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="p">,</span><span class="n">nade_y</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="p">]</span><span class="p">,</span><span class="n">c</span><span class="o">=</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">y</span><span class="s1">&#39;</span><span class="p">,</span><span class="n">alpha</span><span class="o">=</span><span class="mf">0.25</span><span class="p">,</span><span class="n">linestyle</span><span class="o">=</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">dashed</span><span class="s1">&#39;</span><span class="p">)</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="nb">len</span><span class="p">(</span><span class="n">grenade_number</span><span class="p">)):</span>
+    <span class="n">t</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">([</span><span class="n">a_x</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="n">nade_x</span><span class="p">[</span><span class="n">i</span><span class="p">]],[</span><span class="n">a_y</span><span class="p">[</span><span class="n">i</span><span class="p">],</span><span class="n">nade_y</span><span class="p">[</span><span class="n">i</span><span class="p">]],</span><span class="n">c</span><span class="o">=</span><span class="s1">&#39;y&#39;</span><span class="p">,</span><span class="n">alpha</span><span class="o">=</span><span class="mf">0.25</span><span class="p">,</span><span class="n">linestyle</span><span class="o">=</span><span class="s1">&#39;dashed&#39;</span><span class="p">)</span>
 
 </code></pre></td></tr></table>
 </div>
@@ -1849,7 +1849,7 @@ It should be noted that you can put out any flames caused by an incendiary or a 
   </figcaption>
 </figure>
 <p>Most incendiary grenades are thrown in Banana to stop Terrorist to reach B. There are also some representative throws from middle, but this position is quite unsafe for CT (they are too exposed to long-range weapons in Middle ) so I am puzzle about this specific play.</p>
-<p>From my perspective, most incendiary grenades thrown into apartments came from Point A, and Balcony. I can't move that far during the game, so I should focus myself on thrown only when I am inside Balcony.</p>
+<p>From my perspective, most incendiary grenades thrown into apartments came from Point A, and Balcony. I can&rsquo;t move that far during the game, so I should focus myself on thrown only when I am inside Balcony.</p>
 <h4 id="counterterrorist-smoke-grenades">CounterTerrorist smoke grenades</h4>
 <figure>
   <img src="/images/smokes-CT.png"  />
@@ -1863,7 +1863,7 @@ It should be noted that you can put out any flames caused by an incendiary or a 
       <h7>Incendiary grenades locations (blue), tajectory (yellow) and Thrower location (red) </h7>
   </figcaption>
 </figure>
-<p>Smokes are usually thrown into middle, I guess that if Terrorist can't reach Point B, them they are forced to go Point A, and CT deploy a smoke grenade to being able to create some advantages in these situations.</p>
+<p>Smokes are usually thrown into middle, I guess that if Terrorist can&rsquo;t reach Point B, them they are forced to go Point A, and CT deploy a smoke grenade to being able to create some advantages in these situations.</p>
 <p>In Banana, most smokes are thrown near Sandbags, which I think are mostly a late game strategy to slow down Terrorist or a deceive strategy, making Terrorist unable to see Incendiary grenade fire.</p>
 <h3 id="terrorist-side">Terrorist side</h3>
 <p>In this map terrorist (T) must plant the bomb. They can also win if they eliminate the other team and no bomb is planted.</p>
@@ -1918,7 +1918,7 @@ From Sandbags to Garden: Securing PointB and stopping any player on Garden.</p>
 Finally smokes are used by T as a way to stop or slow down CT when they are on different positions. A lot of thes smokes prevent long range weapons to attack from middle. On other side, a lot of smokes are also played creating a barrier between Well  and PointB, so CT comming this way are stopped. 
 On pointA there some relevant smokes too, securing pointA when T have reached it.
 <h2 id="conclusions">Conclusions!</h2>
-<p>So far so good! I definetly have to train how to throw smokes and where to throw them, but now I have a general idea of what smokes are usually thrown (despite 1vs1 situations). Can't wait to try those in real games.</p>
+<p>So far so good! I definetly have to train how to throw smokes and where to throw them, but now I have a general idea of what smokes are usually thrown (despite 1vs1 situations). Can&rsquo;t wait to try those in real games.</p>
 <p>Next steps: find hot spots in the map where I die most, and from where I am killed. See you in chapter II!</p>
 
     </article>

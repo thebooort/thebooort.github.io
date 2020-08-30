@@ -1220,7 +1220,7 @@
     <meta property="twitter:description" content="Analyzing Strava data to know where to run with less human contact">
   
 
-<meta name="generator" content="Hugo 0.61.0" />
+<meta name="generator" content="Hugo 0.68.3" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1685,7 +1685,7 @@
 <p>I think it can be quite hard to take into account the running distance (10 meters can be hard to estimate while constant movement). Furthermore if you add more people to the equation, complexity increases exponentially (well, this need to be proven, but you get the point 👅). So my main idea is to go for a run quite early in the morning or quite late in the night, trying to minimize the number of people that can be affected by my exercises (or that can affects my health).</p>
 </li>
 <li>
-<p>Other thing to take into account is that there is not distance limit within the city, so I have the entire city to choose where to go, that is really great for me as I don't like to run in circle multiples times. The final running track then, can be reaching one point and coming back or some kinf of circular track.</p>
+<p>Other thing to take into account is that there is not distance limit within the city, so I have the entire city to choose where to go, that is really great for me as I don&rsquo;t like to run in circle multiples times. The final running track then, can be reaching one point and coming back or some kinf of circular track.</p>
 </li>
 <li>
 <p>No more than 5-6 kilometers the first day (we need to take it easy those first days!).</p>
@@ -1693,7 +1693,7 @@
 </ul>
 <p>The first point of these is the one harder to analyze:<br />
 As there is no distance limits,I really think there will be probably tons of people running along their old and known tracks (I was thinking about it myself, because running in a familiar route is easier and you can adjust your exercise according to how you feel/your pace/your goals, etc), so if I want to avoid them I just have to choose those streets with less &ldquo;runner-traffic&rdquo;.</p>
-<p>How do I do that? Well well,let's use some data science on it!</p>
+<p>How do I do that? Well well,let&rsquo;s use some data science on it!</p>
 <h2 id="getting-the-data">Getting the data</h2>
 <p>I made some research about public datasets available about mobility inside my city. However (big ironic surprise) there is not a single data about mobility. So I had to change my strategy.</p>
 <h3 id="strava">Strava</h3>
@@ -1727,7 +1727,7 @@ For that reason I am going to use primarly Garmin data, but in this post y also 
 No surprises here, common and bigger streets are often used by other runners. Taking into account where I am going to start, I should try to minimize the most "common" streets, this means that Gran Via, Avenida Fuente Nueva, Calle Reyes Católicos y Camino de Ronda mostly delimit possible tracks. 
 <p>Small streets inside the previous demarcations are very uncommon, so I should try to wander through streets like calle Buensuceso or Calle Párraga. In addition crossing hot-points like recogidas would aloow me to make a bigger circuit while minimizing my exposure. However, I have to be carefull with crossing other common routes like Camino de Ronda, as it only leads to more common spots.</p>
 <h3 id="garmin-1">Garmin</h3>
-<p>Let's see Garmin's data instead. One of the things I like is the way Gramin presents the information. Data don't blott street info and the detail level is very high.</p>
+<p>Let&rsquo;s see Garmin&rsquo;s data instead. One of the things I like is the way Gramin presents the information. Data don&rsquo;t blott street info and the detail level is very high.</p>
 <figure>
   <img src="/images/granada1.png"  />
   <figcaption>
@@ -1750,7 +1750,7 @@ No surprises here, common and bigger streets are often used by other runners. Ta
       <h7>Garmin map (accessed April 30)</h7>
   </figcaption>
 </figure>
-<p>As it is my first running session after a long time, I limit the total distance to 5km (I introduce manually the time per kilometer, but it may change depending on my sensations, however I expect to run slowly at least the first week). Almost every meter of the track goes in &ldquo;low-frequency&rdquo; streets where I think I won't encounter other runner. There are 4 main points that cross &ldquo;high-frequency&rdquo; places, but I think the exposure (with social distance and the schedule I am planning) will be low.</p>
+<p>As it is my first running session after a long time, I limit the total distance to 5km (I introduce manually the time per kilometer, but it may change depending on my sensations, however I expect to run slowly at least the first week). Almost every meter of the track goes in &ldquo;low-frequency&rdquo; streets where I think I won&rsquo;t encounter other runner. There are 4 main points that cross &ldquo;high-frequency&rdquo; places, but I think the exposure (with social distance and the schedule I am planning) will be low.</p>
 <p>Do you need to do all of this with your sessions? Obiously no. If know which street avoid, but it is not always easy to choose an alternative track. I like to make my decissions with some amount of data to be as objetive as possible.</p>
 <p>If you have any ideas, corrections or suggestions, let me know!</p>
 <h1 id="images-credit">Images credit:</h1>

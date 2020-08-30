@@ -1220,7 +1220,7 @@
     <meta property="twitter:description" content="Graficos sobre COVID19 usando bokeh">
   
 
-<meta name="generator" content="Hugo 0.61.0" />
+<meta name="generator" content="Hugo 0.68.3" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1643,11 +1643,11 @@
   <div class="expand__content expand__content--toc">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#covid19--el-caso-de-andaluca">COVID19- El caso de Andalucía</a>
+    <li><a href="#covid19--el-caso-de-andalucía">COVID19- El caso de Andalucía</a>
       <ul>
         <li><a href="#graficos">Graficos</a></li>
         <li><a href="#data-source">Data Source</a></li>
-        <li><a href="#libreras-usadas">Librerías usadas</a></li>
+        <li><a href="#librerías-usadas">Librerías usadas</a></li>
       </ul>
     </li>
   </ul>
@@ -1658,7 +1658,7 @@
       <p>Este post comienza una serie sobre visualización del COVID-19. La motivación para hacerla no es otra que ocupar los ratos muertos de la cuarentena para aprender a crear gráficos interactivos con Bokeh.</p>
 <p>Y de paso ofrecer un vistazo objetivo a los datos que nos llegan sobre la enfermedad. Sé que suena un poco raro pero ya que voy a estar dándole vueltas al tema, tener este enfoque objetivo me ayuda a sobrellevarlo.</p>
 <p>En cuanto depure los códigos los subo a github y tendréis el enlace aquí:</p>
-<h2 id="covid19--el-caso-de-andaluca">COVID19- El caso de Andalucía</h2>
+<h2 id="covid19--el-caso-de-andalucía">COVID19- El caso de Andalucía</h2>
 <p>Comenzamos con el gráfico que primero vino a mi cabeza. Mi idea era obtener los datos de las provincias andaluzas, pero, hasta la fecha de subir este post, no encontraba más que los de las comunidades autónomas.</p>
 <p>En este caso, el ejercicio me llevó a comenzar de cero con Bokeh. Un gráfico tan sencillo como ese sirve para iniciarte en los aspectos básicos de la librería, de los cuales destaco:</p>
 <ul>
@@ -1678,7 +1678,7 @@
 </span><span class="lnt">2
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">TOOLS</span> <span class="o">=</span> <span class="sa"></span><span class="s1">&#39;</span><span class="s1">crosshair,save,pan,box_zoom,reset,wheel_zoom</span><span class="s1">&#39;</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">TOOLS</span> <span class="o">=</span> <span class="s1">&#39;crosshair,save,pan,box_zoom,reset,wheel_zoom&#39;</span>
 <span class="n">plot</span> <span class="o">=</span> <span class="n">figure</span><span class="p">(</span><span class="n">tools</span><span class="o">=</span><span class="n">TOOLS</span><span class="p">)</span>
 </code></pre></td></tr></table>
 </div>
@@ -1690,7 +1690,7 @@
 <pre class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">plot</span> <span class="o">=</span> <span class="n">figure</span><span class="p">(</span><span class="n">x_axis_type</span><span class="o">=</span><span class="sa"></span><span class="s1">&#39;</span><span class="s1">datetime</span><span class="s1">&#39;</span><span class="p">,</span> <span class="n">tools</span><span class="o">=</span><span class="n">TOOLS</span><span class="p">)</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">plot</span> <span class="o">=</span> <span class="n">figure</span><span class="p">(</span><span class="n">x_axis_type</span><span class="o">=</span><span class="s1">&#39;datetime&#39;</span><span class="p">,</span> <span class="n">tools</span><span class="o">=</span><span class="n">TOOLS</span><span class="p">)</span>
 </code></pre></td></tr></table>
 </div>
 </div><p>Finalmente opté por crear mi primer gráfico con puntos y líneas.</p>
@@ -1699,7 +1699,7 @@
 </iframe>
 <h3 id="data-source">Data Source</h3>
 <p>Todos los datos están obtenidos de <a href="https://code.montera34.com:4443/numeroteca/covid19">Numeroteca COVID-19</a></p>
-<h3 id="libreras-usadas">Librerías usadas</h3>
+<h3 id="librerías-usadas">Librerías usadas</h3>
 <ul>
 <li><a href="https://bokeh.org/">Bokeh</a></li>
 <li><a href="https://pandas.pydata.org/">Pandas</a></li>
@@ -2300,11 +2300,11 @@ document.addEventListener('DOMContentLoaded', function () {
   <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#covid19--el-caso-de-andaluca">COVID19- El caso de Andalucía</a>
+    <li><a href="#covid19--el-caso-de-andalucía">COVID19- El caso de Andalucía</a>
       <ul>
         <li><a href="#graficos">Graficos</a></li>
         <li><a href="#data-source">Data Source</a></li>
-        <li><a href="#libreras-usadas">Librerías usadas</a></li>
+        <li><a href="#librerías-usadas">Librerías usadas</a></li>
       </ul>
     </li>
   </ul>
