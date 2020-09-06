@@ -14,7 +14,7 @@
     <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
     <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Sun, 30 Aug 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2020 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -24,12 +24,30 @@
 
       
       <item>
-        <title>Baduk</title>
-        <link>https://thebooort.github.io/tags/baduk/</link>
-        <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
+        <title>Air Quality</title>
+        <link>https://thebooort.github.io/tags/air-quality/</link>
+        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
-        <guid>https://thebooort.github.io/tags/baduk/</guid>
+        <guid>https://thebooort.github.io/tags/air-quality/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>COVID19</title>
+        <link>https://thebooort.github.io/tags/covid19/</link>
+        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/covid19/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
@@ -44,10 +62,100 @@
       <item>
         <title>Data</title>
         <link>https://thebooort.github.io/tags/data/</link>
-        <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
+        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/data/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Ecology</title>
+        <link>https://thebooort.github.io/tags/ecology/</link>
+        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/ecology/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Pollution</title>
+        <link>https://thebooort.github.io/tags/pollution/</link>
+        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/pollution/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Python</title>
+        <link>https://thebooort.github.io/tags/python/</link>
+        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/python/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Visualization</title>
+        <link>https://thebooort.github.io/tags/visualization/</link>
+        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/visualization/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Baduk</title>
+        <link>https://thebooort.github.io/tags/baduk/</link>
+        <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/baduk/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
@@ -84,42 +192,6 @@
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/machine-learning/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Python</title>
-        <link>https://thebooort.github.io/tags/python/</link>
-        <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/python/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Visualization</title>
-        <link>https://thebooort.github.io/tags/visualization/</link>
-        <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/visualization/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
@@ -300,78 +372,6 @@
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/latex/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Air Quality</title>
-        <link>https://thebooort.github.io/tags/air-quality/</link>
-        <pubDate>Fri, 01 May 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/air-quality/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>COVID19</title>
-        <link>https://thebooort.github.io/tags/covid19/</link>
-        <pubDate>Fri, 01 May 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/covid19/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Ecology</title>
-        <link>https://thebooort.github.io/tags/ecology/</link>
-        <pubDate>Fri, 01 May 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/ecology/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Pollution</title>
-        <link>https://thebooort.github.io/tags/pollution/</link>
-        <pubDate>Fri, 01 May 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/pollution/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>

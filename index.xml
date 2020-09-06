@@ -45,6 +45,72 @@
 
       
       <item>
+        <title>El aire que respiramos durante el confinamiento (actualización con datos de agosto)</title>
+        <link>https://thebooort.github.io/posts/pollution_levels_update_agosto/</link>
+        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Sun, 06 Sep 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/pollution_levels_update_agosto/</guid>
+        <description>Image credit: Ivan Aleksic @ivalex Unsplash
+Este post es una actualización de uno más antiguo, dónde podréis encontrar información sobre dónde encontré los datos, tips para dibujar el gráfico y qué significa ¿Cómo afecta el confinamiento a los niveles de polución? Durante la cuarentena que estamos viviendo la reducción de la movilidad de las personas es evidente.
+Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de transporte público y algunas maquinarias pertenecientes a servicios que se encuentran inactivos, muchos medios se han hecho eco de la disminución en los niveles de polución ambiental.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/polucion.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Pollution</category>
+            
+          
+            
+              <category>Ecology</category>
+            
+          
+            
+              <category>Air Quality</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Winning probabilities in Go 19x19 (LeelaZero)</title>
         <link>https://thebooort.github.io/posts/baduk-go-winning-probabilities-2/</link>
         <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
