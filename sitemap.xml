@@ -63,42 +63,117 @@
   </url>
   
   <url>
+    <loc>https://thebooort.github.io/categories/</loc>
+    <lastmod>2020-10-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/coding/</loc>
+    <lastmod>2020-10-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/data/</loc>
+    <lastmod>2020-10-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/math/</loc>
+    <lastmod>2020-10-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/math/</loc>
+    <lastmod>2020-10-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/math/</loc>
+    <lastmod>2020-10-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/</loc>
+    <lastmod>2020-10-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/projects/</loc>
+    <lastmod>2020-10-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/python/</loc>
+    <lastmod>2020-10-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/</loc>
+    <lastmod>2020-10-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/</loc>
+    <lastmod>2020-10-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/mscplot/</loc>
+    <lastmod>2020-10-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/visualization/</loc>
+    <lastmod>2020-10-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/visualization/</loc>
+    <lastmod>2020-10-03T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/climate-crisis/</loc>
+    <lastmod>2020-09-09T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/crisis-clim%C3%A1tica/</loc>
+    <lastmod>2020-09-09T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/data-science/</loc>
+    <lastmod>2020-09-09T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/data-science/</loc>
+    <lastmod>2020-09-09T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/ecology/</loc>
+    <lastmod>2020-09-09T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/visualization/</loc>
+    <lastmod>2020-09-09T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/calentamiento_granada/</loc>
+    <lastmod>2020-09-09T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thebooort.github.io/tags/air-quality/</loc>
     <lastmod>2020-09-06T12:00:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/categories/</loc>
-    <lastmod>2020-09-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/categories/coding/</loc>
-    <lastmod>2020-09-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thebooort.github.io/tags/covid19/</loc>
-    <lastmod>2020-09-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/data/</loc>
-    <lastmod>2020-09-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/series/data-science/</loc>
-    <lastmod>2020-09-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/categories/data-science/</loc>
-    <lastmod>2020-09-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/ecology/</loc>
     <lastmod>2020-09-06T12:00:06+09:00</lastmod>
   </url>
   
@@ -109,31 +184,6 @@
   
   <url>
     <loc>https://thebooort.github.io/tags/pollution/</loc>
-    <lastmod>2020-09-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/posts/</loc>
-    <lastmod>2020-09-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/python/</loc>
-    <lastmod>2020-09-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/series/</loc>
-    <lastmod>2020-09-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/</loc>
-    <lastmod>2020-09-06T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/visualization/</loc>
     <lastmod>2020-09-06T12:00:06+09:00</lastmod>
   </url>
   
@@ -165,6 +215,31 @@
   <url>
     <loc>https://thebooort.github.io/posts/baduk-go-winning-probabilities-2/</loc>
     <lastmod>2020-08-30T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/deep-learning/</loc>
+    <lastmod>2020-08-26T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/deep-learning/</loc>
+    <lastmod>2020-08-26T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/theplotclassifier/</loc>
+    <lastmod>2020-08-26T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/transfer-learning/</loc>
+    <lastmod>2020-08-26T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/oeisviz/</loc>
+    <lastmod>2020-08-14T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -348,11 +423,6 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/categories/visualization/</loc>
-    <lastmod>2020-03-29T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thebooort.github.io/tags/coding/</loc>
     <lastmod>2020-03-28T12:00:06+09:00</lastmod>
   </url>
@@ -464,11 +534,6 @@
   
   <url>
     <loc>https://thebooort.github.io/tags/computer-science/</loc>
-    <lastmod>2019-06-21T20:46:30+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/deep-learning/</loc>
     <lastmod>2019-06-21T20:46:30+09:00</lastmod>
   </url>
   

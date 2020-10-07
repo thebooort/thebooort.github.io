@@ -95,6 +95,77 @@ I found this visualization quite interested but i couldn&amp;rsquo;t find any li
       </item>
       
       <item>
+        <title>The PLot Classifier</title>
+        <link>https://thebooort.github.io/posts/theplotclassifier/</link>
+        <pubDate>Wed, 26 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <atom:modified>Wed, 26 Aug 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/theplotclassifier/</guid>
+        <description>The Plot Classifier   (Yeah I designed the logo too! Does it count as artistic design knowledge? :P) Repository All this info and more can be found at the repo
+Any serious aspect you might find in this repo is purely coincidental Hey! the tool you don&amp;rsquo;t even know you need!
+(Silly summer project to know the name of that cool plot/chart/visualization you saw on a webpage)
+Index  Motivation Approach  Data Collect ML Approach  Neural Net architecture Results Nets trained you can find here   Streamlit  Screenshots   Heroku    Motivation This project was born from a personal doubt that I have come across several times: What is the name of that cool graphic?</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/logoTPC.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Machine Learning</category>
+            
+          
+            
+              <category>Deep Learning</category>
+            
+          
+            
+              <category>Transfer learning</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Deep Learning</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Winning probabilities in Go (leela)</title>
         <link>https://thebooort.github.io/posts/baduk-go-winning-probabilities/</link>
         <pubDate>Sun, 26 Apr 2020 12:00:06 +0900</pubDate>

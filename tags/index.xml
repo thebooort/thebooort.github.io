@@ -14,7 +14,7 @@
     <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
     <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Sun, 06 Sep 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2020 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -22,6 +22,132 @@
     
     
 
+      
+      <item>
+        <title>Data</title>
+        <link>https://thebooort.github.io/tags/data/</link>
+        <pubDate>Sat, 03 Oct 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/data/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Math</title>
+        <link>https://thebooort.github.io/tags/math/</link>
+        <pubDate>Sat, 03 Oct 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/math/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Python</title>
+        <link>https://thebooort.github.io/tags/python/</link>
+        <pubDate>Sat, 03 Oct 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/python/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Visualization</title>
+        <link>https://thebooort.github.io/tags/visualization/</link>
+        <pubDate>Sat, 03 Oct 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/visualization/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Climate Crisis</title>
+        <link>https://thebooort.github.io/tags/climate-crisis/</link>
+        <pubDate>Wed, 09 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/climate-crisis/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>crisis climática</title>
+        <link>https://thebooort.github.io/tags/crisis-clim%C3%A1tica/</link>
+        <pubDate>Wed, 09 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/crisis-clim%C3%A1tica/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Ecology</title>
+        <link>https://thebooort.github.io/tags/ecology/</link>
+        <pubDate>Wed, 09 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/ecology/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Air Quality</title>
@@ -60,84 +186,12 @@
       </item>
       
       <item>
-        <title>Data</title>
-        <link>https://thebooort.github.io/tags/data/</link>
-        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/data/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Ecology</title>
-        <link>https://thebooort.github.io/tags/ecology/</link>
-        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/ecology/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>Pollution</title>
         <link>https://thebooort.github.io/tags/pollution/</link>
         <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/pollution/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Python</title>
-        <link>https://thebooort.github.io/tags/python/</link>
-        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/python/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Visualization</title>
-        <link>https://thebooort.github.io/tags/visualization/</link>
-        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/visualization/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
@@ -192,6 +246,42 @@
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/machine-learning/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Deep Learning</title>
+        <link>https://thebooort.github.io/tags/deep-learning/</link>
+        <pubDate>Wed, 26 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/deep-learning/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Transfer learning</title>
+        <link>https://thebooort.github.io/tags/transfer-learning/</link>
+        <pubDate>Wed, 26 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/transfer-learning/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
@@ -660,24 +750,6 @@
         <author>bortiz@gmail.com (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/computer-science/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Deep Learning</title>
-        <link>https://thebooort.github.io/tags/deep-learning/</link>
-        <pubDate>Fri, 21 Jun 2019 20:46:30 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/deep-learning/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
