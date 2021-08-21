@@ -15,9 +15,9 @@
 
 <script defer src="/js/fuse.min.94c78ad70b02749822921660cf4e9f0b3701bc0680c421afb784a78228de0275.js"></script>
 
-<script defer src="/js/helper/getParents.min.1618c696be7c98933f9a92677f518b512a74e55bdbb976b09936b4182e93181b.js"></script>
+<script defer src="/js/helper/getParents.min.ccd45f158c1b17849307ba913a72beac239c410f2b6e648496a79842da84e55b.js"></script>
 
-<script defer src="/js/helper/fadeinout.min.93a331f96194789a542f33690bbe4f0c102c7e78ffc018217f5a1c33010bad91.js"></script>
+<script defer src="/js/helper/fadeinout.min.9fb19682560d5fa5596fffec85da605067c4acc86aad05add4d8fff9d362a446.js"></script>
 
 <script defer src="/js/helper/closest.min.js"></script>
   
@@ -1220,7 +1220,7 @@
     <meta property="twitter:description" content="Analyzing data from my last Counter Strike (FPS) match and using it to improve">
   
 
-<meta name="generator" content="Hugo 0.68.3" />
+<meta name="generator" content="Hugo 0.87.0" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1705,7 +1705,7 @@ The grenades that I am going to analyze are:</p>
 <ul>
 <li>The Smoke Grenade</li>
 </ul>
-<p>The smoke grenade instantly creates a thick, medium-sized (288 units diameter, or 144 units radius) smoke screen that lasts for 18 seconds after the fuse expires. The smoke screen is largely opaque except at the corners, blocking players&rsquo; vision. If a player enters the smoke, the player&rsquo;s weapon model will fade slightly and all vision will be obscured, even at zero range.</p>
+<p>The smoke grenade instantly creates a thick, medium-sized (288 units diameter, or 144 units radius) smoke screen that lasts for 18 seconds after the fuse expires. The smoke screen is largely opaque except at the corners, blocking players' vision. If a player enters the smoke, the player&rsquo;s weapon model will fade slightly and all vision will be obscured, even at zero range.</p>
 <ul>
 <li>The Molotov/Incendiary Grenade</li>
 </ul>
@@ -1745,7 +1745,7 @@ It should be noted that you can put out any flames caused by an incendiary or a 
 <p>For de_inferno map, you have to make slighty deviations from a code I founded. Also you have to find the exact measures of your map, check the link in the code for that :</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -1766,7 +1766,7 @@ It should be noted that you can put out any flames caused by an incendiary or a 
 </span><span class="lnt">19
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-python" data-lang="python"><span class="c1"># Code modified from the one used by billfreeman44 | See his kernel : https://www.kaggle.com/billfreeman44/finding-classic-smokes-by-t-side-on-mirage </span>
+<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="c1"># Code modified from the one used by billfreeman44 | See his kernel : https://www.kaggle.com/billfreeman44/finding-classic-smokes-by-t-side-on-mirage </span>
 <span class="c1"># map data: https://github.com/akiver/CSGO-Demos-Manager/tree/master/Core/Models/Maps</span>
 <span class="k">def</span> <span class="nf">pointx_to_resolutionx</span><span class="p">(</span><span class="n">xinput</span><span class="p">,</span><span class="n">startX</span><span class="o">=-</span><span class="mi">2222</span><span class="p">,</span><span class="n">endX</span><span class="o">=</span><span class="mi">3561</span><span class="p">,</span><span class="n">resX</span><span class="o">=</span><span class="mi">1160</span><span class="p">):</span>
     <span class="n">sizeX</span><span class="o">=</span><span class="n">endX</span><span class="o">-</span><span class="n">startX</span>
@@ -1790,7 +1790,7 @@ It should be noted that you can put out any flames caused by an incendiary or a 
 </div><p>I change a little bit the scale and exes elevation. The results were pretty good and coherent. In this situation, it is necesary to plot the map below the plots, otherwise data could not be easy to analyze:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><code><span class="lnt"> 1
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -1802,7 +1802,7 @@ It should be noted that you can put out any flames caused by an incendiary or a 
 </span><span class="lnt">10
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-python" data-lang="python"><span class="c1"># Code modified from the one used by billfreeman44 | See his kernel : https://www.kaggle.com/billfreeman44/finding-classic-smokes-by-t-side-on-mirage </span>
+<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="c1"># Code modified from the one used by billfreeman44 | See his kernel : https://www.kaggle.com/billfreeman44/finding-classic-smokes-by-t-side-on-mirage </span>
 <span class="n">im</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">imread</span><span class="p">(</span><span class="s1">&#39;../input/de_inferno.png&#39;</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">15</span><span class="p">,</span><span class="mi">15</span><span class="p">))</span>
 <span class="n">t</span> <span class="o">=</span> <span class="n">plt</span><span class="o">.</span><span class="n">imshow</span><span class="p">(</span><span class="n">im</span><span class="p">)</span>
@@ -2250,7 +2250,7 @@ On pointA there some relevant smokes too, securing pointA when T have reached it
 </div>
 
 
-<script defer src="/js/swipe.min.08ff2be1b74347bad9e267f732f1388d271b2f9d97b6a8a87bd6a510f17c5ad2.js"></script>
+<script defer src="/js/swipe.min.d70095d96ef6a016133ea2c732c5d4713539d335b739178e356af46f54cf0a16.js"></script>
 
 <script defer src="/js/micromodal.min.de01b44b2f383056bbcaf6ee921fd385d79108ec1129afd0eb2f3f5a07e11f45.js"></script>
 
@@ -3396,7 +3396,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 
             <p class="caption">
                 
-                    CC-BY-SA, 2020
+                    CC-BY-SA, 2021
                 
             </p>
         
