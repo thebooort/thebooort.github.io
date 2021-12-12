@@ -11,8 +11,8 @@
     <description>Recent content in Machine Learning on Effective Axiomatization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
-    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
     <lastBuildDate>Sun, 30 Aug 2020 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
@@ -27,7 +27,7 @@
         <title>Winning probabilities in Go 19x19 (LeelaZero)</title>
         <link>https://thebooort.github.io/posts/baduk-go-winning-probabilities-2/</link>
         <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sun, 30 Aug 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/baduk-go-winning-probabilities-2/</guid>
         <description>photo credits: Photo by Joe Woods on Unsplash
@@ -98,7 +98,7 @@ I found this visualization quite interested but i couldn&amp;rsquo;t find any li
         <title>The PLot Classifier</title>
         <link>https://thebooort.github.io/posts/theplotclassifier/</link>
         <pubDate>Wed, 26 Aug 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Wed, 26 Aug 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/theplotclassifier/</guid>
         <description>The Plot Classifier   (Yeah I designed the logo too! Does it count as artistic design knowledge? :P) Repository All this info and more can be found at the repo
@@ -169,7 +169,7 @@ Index  Motivation Approach  Data Collect ML Approach  Neural Net architecture Re
         <title>Winning probabilities in Go (leela)</title>
         <link>https://thebooort.github.io/posts/baduk-go-winning-probabilities/</link>
         <pubDate>Sun, 26 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sun, 26 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/baduk-go-winning-probabilities/</guid>
         <description>photo credits: Photo by Joe Woods on Unsplash
@@ -240,7 +240,7 @@ I am starting with a 9x9, because I am not familiar with any parser to exchange 
         <title>Data Science in my last CS:GO match (1)</title>
         <link>https://thebooort.github.io/posts/analyzing-data-from-my-last-csgo-match/</link>
         <pubDate>Thu, 23 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Thu, 23 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/analyzing-data-from-my-last-csgo-match/</guid>
         <description>Image credit: La Tercera
@@ -306,7 +306,7 @@ The game pits two teams against each other: the Terrorists and the Counter-Terro
         <title>Did confinement affect my sleep/exercise routine?</title>
         <link>https://thebooort.github.io/posts/analyzing-sleep-patterns-before-and-during-covid19-quarentine/</link>
         <pubDate>Mon, 06 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Mon, 06 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/analyzing-sleep-patterns-before-and-during-covid19-quarentine/</guid>
         <description>Image credit: Javier Ezpeleta @javierezpeleta Unsplash
@@ -363,7 +363,7 @@ Did confinement affects my sleep routine? Llevamos ya varias semanas de cuarente
         <title>COVID19 research paper recommendation engine</title>
         <link>https://thebooort.github.io/posts/covid_kaggle/</link>
         <pubDate>Sat, 28 Mar 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sat, 28 Mar 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/covid_kaggle/</guid>
         <description>COVID19 Kaggle Challenge Dentro de los challenges lanzados por Kaggle para usar los datos publicados del COVID19, los doctorandos que compartimos directora de tesis nos juntamos para probar ideas y aprender lo que pudiésemos en el camino.
@@ -436,7 +436,7 @@ Había varios retos o tareas en las que podíamos embarcarnos, pero como nuestro
         <title>Destripando a Keras</title>
         <link>https://thebooort.github.io/presentation/third/</link>
         <pubDate>Fri, 21 Jun 2019 20:46:30 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 21 Jun 2019 20:46:30 +0900</atom:modified>
         <guid>https://thebooort.github.io/presentation/third/</guid>
         <description></description>

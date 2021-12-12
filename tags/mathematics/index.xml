@@ -11,8 +11,8 @@
     <description>Recent content in Mathematics on Effective Axiomatization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
-    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
     <lastBuildDate>Fri, 10 Apr 2020 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
@@ -27,7 +27,7 @@
         <title>¿Cómo vamos? Estimando el ritmo de contagio </title>
         <link>https://thebooort.github.io/posts/r_0granada/</link>
         <pubDate>Fri, 10 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 10 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/r_0granada/</guid>
         <description>Image credit: CDC Unsplash
@@ -93,7 +93,7 @@ Estimando R_0 de Granada (ritmo de contagio) en ventanas semanales En lugar de h
         <title>Destripando a Keras</title>
         <link>https://thebooort.github.io/presentation/third/</link>
         <pubDate>Fri, 21 Jun 2019 20:46:30 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 21 Jun 2019 20:46:30 +0900</atom:modified>
         <guid>https://thebooort.github.io/presentation/third/</guid>
         <description></description>
@@ -147,7 +147,7 @@ Estimando R_0 de Granada (ritmo de contagio) en ventanas semanales En lugar de h
         <title>Causal Inference</title>
         <link>https://thebooort.github.io/presentation/second/</link>
         <pubDate>Fri, 05 Apr 2019 20:45:24 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 05 Apr 2019 20:45:24 +0900</atom:modified>
         <guid>https://thebooort.github.io/presentation/second/</guid>
         <description></description>
@@ -189,7 +189,7 @@ Estimando R_0 de Granada (ritmo de contagio) en ventanas semanales En lugar de h
         <title>Power laws&#39; guide</title>
         <link>https://thebooort.github.io/presentation/first/</link>
         <pubDate>Fri, 01 Feb 2019 19:45:20 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 01 Feb 2019 19:45:20 +0900</atom:modified>
         <guid>https://thebooort.github.io/presentation/first/</guid>
         <description></description>

@@ -11,8 +11,8 @@
     <description>Recent content in Kaggle on Effective Axiomatization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
-    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
     <lastBuildDate>Sat, 28 Mar 2020 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
@@ -27,7 +27,7 @@
         <title>COVID19 research paper recommendation engine</title>
         <link>https://thebooort.github.io/posts/covid_kaggle/</link>
         <pubDate>Sat, 28 Mar 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sat, 28 Mar 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/covid_kaggle/</guid>
         <description>COVID19 Kaggle Challenge Dentro de los challenges lanzados por Kaggle para usar los datos publicados del COVID19, los doctorandos que compartimos directora de tesis nos juntamos para probar ideas y aprender lo que pudiésemos en el camino.

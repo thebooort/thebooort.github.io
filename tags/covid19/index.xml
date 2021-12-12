@@ -11,8 +11,8 @@
     <description>Recent content in COVID19 on Effective Axiomatization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
-    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
     <lastBuildDate>Sun, 06 Sep 2020 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
@@ -27,7 +27,7 @@
         <title>El aire que respiramos durante el confinamiento (actualización con datos de agosto)</title>
         <link>https://thebooort.github.io/posts/pollution_levels_update_agosto/</link>
         <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sun, 06 Sep 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/pollution_levels_update_agosto/</guid>
         <description>Image credit: Ivan Aleksic @ivalex Unsplash
@@ -93,7 +93,7 @@ Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de
         <title>El aire que respiramos durante el confinamiento (actualización con datos de abril)</title>
         <link>https://thebooort.github.io/posts/pollution_levels_update_abril/</link>
         <pubDate>Fri, 01 May 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 01 May 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/pollution_levels_update_abril/</guid>
         <description>Image credit: Ivan Aleksic @ivalex Unsplash
@@ -159,7 +159,7 @@ Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de
         <title>¿Cómo vamos? Estimando el ritmo de contagio </title>
         <link>https://thebooort.github.io/posts/r_0granada/</link>
         <pubDate>Fri, 10 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 10 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/r_0granada/</guid>
         <description>Image credit: CDC Unsplash
@@ -225,7 +225,7 @@ Estimando R_0 de Granada (ritmo de contagio) en ventanas semanales En lugar de h
         <title>El aire que respiramos durante el confinamiento</title>
         <link>https://thebooort.github.io/posts/pollution_levels/</link>
         <pubDate>Wed, 08 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Wed, 08 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/pollution_levels/</guid>
         <description>Image credit: Ivan Aleksic @ivalex Unsplash
@@ -291,7 +291,7 @@ Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de
         <title>Did confinement affect my sleep/exercise routine?</title>
         <link>https://thebooort.github.io/posts/analyzing-sleep-patterns-before-and-during-covid19-quarentine/</link>
         <pubDate>Mon, 06 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Mon, 06 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/analyzing-sleep-patterns-before-and-during-covid19-quarentine/</guid>
         <description>Image credit: Javier Ezpeleta @javierezpeleta Unsplash
@@ -348,7 +348,7 @@ Did confinement affects my sleep routine? Llevamos ya varias semanas de cuarente
         <title>COVID19 research paper recommendation engine</title>
         <link>https://thebooort.github.io/posts/covid_kaggle/</link>
         <pubDate>Sat, 28 Mar 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sat, 28 Mar 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/covid_kaggle/</guid>
         <description>COVID19 Kaggle Challenge Dentro de los challenges lanzados por Kaggle para usar los datos publicados del COVID19, los doctorandos que compartimos directora de tesis nos juntamos para probar ideas y aprender lo que pudiésemos en el camino.
@@ -421,7 +421,7 @@ Había varios retos o tareas en las que podíamos embarcarnos, pero como nuestro
         <title>COVID19 &#43; Bokeh - Mapas!</title>
         <link>https://thebooort.github.io/posts/covid_bokeh_mapa/</link>
         <pubDate>Sun, 22 Mar 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sun, 22 Mar 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/covid_bokeh_mapa/</guid>
         <description>Este post continúa la serie sobre visualización del COVID-19. La motivación para hacerla no es otra que ocupar los ratos muertos de la cuarentena para aprender a crear gráficos interactivos con Bokeh.
@@ -466,7 +466,7 @@ Y de paso ofrecer un vistazo objetivo a los datos que nos llegan sobre la enferm
         <title>COVID19 &#43; Bokeh: Madrid vs. Andalucía</title>
         <link>https://thebooort.github.io/posts/covid_bokeh_madrid_vs_and/</link>
         <pubDate>Sat, 21 Mar 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sat, 21 Mar 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/covid_bokeh_madrid_vs_and/</guid>
         <description>Este post continúa la serie sobre visualización del COVID-19. La motivación para hacerla no es otra que ocupar los ratos muertos de la cuarentena para aprender a crear gráficos interactivos con Bokeh.
@@ -511,7 +511,7 @@ Y de paso ofrecer un vistazo objetivo a los datos que nos llegan sobre la enferm
         <title>COVID19 &#43; Bokeh</title>
         <link>https://thebooort.github.io/posts/covid_bokeh/</link>
         <pubDate>Thu, 19 Mar 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Thu, 19 Mar 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/covid_bokeh/</guid>
         <description>Este post comienza una serie sobre visualización del COVID-19. La motivación para hacerla no es otra que ocupar los ratos muertos de la cuarentena para aprender a crear gráficos interactivos con Bokeh.

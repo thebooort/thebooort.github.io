@@ -11,10 +11,10 @@
     <description>Recent content in Python on Effective Axiomatization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
-    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Sat, 03 Oct 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Dec 2021 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
@@ -24,10 +24,123 @@
 
       
       <item>
+        <title>My coffee Journey... Wrapped 2021</title>
+        <link>https://thebooort.github.io/posts/coffee2021/</link>
+        <pubDate>Sun, 12 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Sun, 12 Dec 2021 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/coffee2021/</guid>
+        <description>Coffee 2021 Wrapped   Motivation WIP!
+                LINKS  Repository (code and examples)  </description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/coffee2021wrapped.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>European Go Championship 2021</title>
+        <link>https://thebooort.github.io/posts/go_chart_2021/</link>
+        <pubDate>Fri, 10 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Fri, 10 Dec 2021 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/go_chart_2021/</guid>
+        <description>Visualization of the European Go Championship&amp;rsquo;s Finals   Motivation Just a few days ago the world chess championship ended. Of course, it is a very important event that always appears in the media. FivethirtyEigth is no exception. I am not a big fan of chess (I practiced it in my high school days, but I never spent enough time to be competent at it), but like any other sporting event, I find it fascinating to keep up to date with what is going on.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/final1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Artifical Intelligence</category>
+            
+          
+            
+              <category>Math</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Math</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+            
+              <category>Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>The global map of math (well, kind of)</title>
         <link>https://thebooort.github.io/posts/mscplot/</link>
         <pubDate>Sat, 03 Oct 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sat, 03 Oct 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/mscplot/</guid>
         <description>The global map of math (not really, but it is close)   Motivation Lately I have been very obsessed with finding a way to create a concept map of modern mathematics. And it is not being easy. If we assumed that it was possible and that we had all the information, we would have a huge amount of information. The ramifications of mathematics are enormous and there are so many interconnected areas.</description>
@@ -87,7 +200,7 @@
         <title>¿Cómo nos afectará la crisis climática? Una perspectiva local en Granada</title>
         <link>https://thebooort.github.io/posts/calentamiento_granada/</link>
         <pubDate>Wed, 09 Sep 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Wed, 09 Sep 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/calentamiento_granada/</guid>
         <description>Image credit: Li-An Lim
@@ -154,7 +267,7 @@ Además, como muchas veces es algo de lo que se habla muy en global, intento ofr
         <title>El aire que respiramos durante el confinamiento (actualización con datos de agosto)</title>
         <link>https://thebooort.github.io/posts/pollution_levels_update_agosto/</link>
         <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sun, 06 Sep 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/pollution_levels_update_agosto/</guid>
         <description>Image credit: Ivan Aleksic @ivalex Unsplash
@@ -220,7 +333,7 @@ Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de
         <title>Winning probabilities in Go 19x19 (LeelaZero)</title>
         <link>https://thebooort.github.io/posts/baduk-go-winning-probabilities-2/</link>
         <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sun, 30 Aug 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/baduk-go-winning-probabilities-2/</guid>
         <description>photo credits: Photo by Joe Woods on Unsplash
@@ -291,7 +404,7 @@ I found this visualization quite interested but i couldn&amp;rsquo;t find any li
         <title>The PLot Classifier</title>
         <link>https://thebooort.github.io/posts/theplotclassifier/</link>
         <pubDate>Wed, 26 Aug 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Wed, 26 Aug 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/theplotclassifier/</guid>
         <description>The Plot Classifier   (Yeah I designed the logo too! Does it count as artistic design knowledge? :P) Repository All this info and more can be found at the repo
@@ -362,7 +475,7 @@ Index  Motivation Approach  Data Collect ML Approach  Neural Net architecture Re
         <title>Visualizing OEIS sequences</title>
         <link>https://thebooort.github.io/posts/oeisviz/</link>
         <pubDate>Fri, 14 Aug 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 14 Aug 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/oeisviz/</guid>
         <description>OEIS Sequences Visualized   Motivation There is not much to tell here. If you don&amp;rsquo;t know what the OEIS is, there are hours of fun waiting for you. It is basically an online encyclopedia that collects almost all relevant integer sequences. You can find everything, but in particular many properties and curious numbers.
@@ -423,7 +536,7 @@ Looking at some pictures of number visualizations I discovered one that assigned
         <title>El aire que respiramos durante el confinamiento (actualización con datos de abril)</title>
         <link>https://thebooort.github.io/posts/pollution_levels_update_abril/</link>
         <pubDate>Fri, 01 May 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 01 May 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/pollution_levels_update_abril/</guid>
         <description>Image credit: Ivan Aleksic @ivalex Unsplash
@@ -489,7 +602,7 @@ Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de
         <title>Where to run after confinement?</title>
         <link>https://thebooort.github.io/posts/where-to-run/</link>
         <pubDate>Thu, 30 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Thu, 30 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/where-to-run/</guid>
         <description>We can go for a quick run, but&amp;hellip; where? From now on (technically May 2nd), in Spain (specifically in my city Granada), we are allowed to go for a quick run or walk in the morning. Those are really good news for every runner and trail runner I know, but with great power comes great responsability.
@@ -542,7 +655,7 @@ My main concern about going outside for a quick run is how many people will I en
         <title>Winning probabilities in Go (leela)</title>
         <link>https://thebooort.github.io/posts/baduk-go-winning-probabilities/</link>
         <pubDate>Sun, 26 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sun, 26 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/baduk-go-winning-probabilities/</guid>
         <description>photo credits: Photo by Joe Woods on Unsplash
@@ -613,7 +726,7 @@ I am starting with a 9x9, because I am not familiar with any parser to exchange 
         <title>Data Science in my last CS:GO match (1)</title>
         <link>https://thebooort.github.io/posts/analyzing-data-from-my-last-csgo-match/</link>
         <pubDate>Thu, 23 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Thu, 23 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/analyzing-data-from-my-last-csgo-match/</guid>
         <description>Image credit: La Tercera
@@ -679,7 +792,7 @@ The game pits two teams against each other: the Terrorists and the Counter-Terro
         <title>El aire que respiramos durante el confinamiento</title>
         <link>https://thebooort.github.io/posts/pollution_levels/</link>
         <pubDate>Wed, 08 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Wed, 08 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/pollution_levels/</guid>
         <description>Image credit: Ivan Aleksic @ivalex Unsplash
@@ -745,7 +858,7 @@ Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de
         <title>Did confinement affect my sleep/exercise routine?</title>
         <link>https://thebooort.github.io/posts/analyzing-sleep-patterns-before-and-during-covid19-quarentine/</link>
         <pubDate>Mon, 06 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Mon, 06 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/analyzing-sleep-patterns-before-and-during-covid19-quarentine/</guid>
         <description>Image credit: Javier Ezpeleta @javierezpeleta Unsplash
@@ -802,7 +915,7 @@ Did confinement affects my sleep routine? Llevamos ya varias semanas de cuarente
         <title>COVID19 research paper recommendation engine</title>
         <link>https://thebooort.github.io/posts/covid_kaggle/</link>
         <pubDate>Sat, 28 Mar 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sat, 28 Mar 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/covid_kaggle/</guid>
         <description>COVID19 Kaggle Challenge Dentro de los challenges lanzados por Kaggle para usar los datos publicados del COVID19, los doctorandos que compartimos directora de tesis nos juntamos para probar ideas y aprender lo que pudiésemos en el camino.
@@ -875,7 +988,7 @@ Había varios retos o tareas en las que podíamos embarcarnos, pero como nuestro
         <title>COVID19 &#43; Bokeh - Mapas!</title>
         <link>https://thebooort.github.io/posts/covid_bokeh_mapa/</link>
         <pubDate>Sun, 22 Mar 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sun, 22 Mar 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/covid_bokeh_mapa/</guid>
         <description>Este post continúa la serie sobre visualización del COVID-19. La motivación para hacerla no es otra que ocupar los ratos muertos de la cuarentena para aprender a crear gráficos interactivos con Bokeh.
@@ -920,7 +1033,7 @@ Y de paso ofrecer un vistazo objetivo a los datos que nos llegan sobre la enferm
         <title>COVID19 &#43; Bokeh: Madrid vs. Andalucía</title>
         <link>https://thebooort.github.io/posts/covid_bokeh_madrid_vs_and/</link>
         <pubDate>Sat, 21 Mar 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sat, 21 Mar 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/covid_bokeh_madrid_vs_and/</guid>
         <description>Este post continúa la serie sobre visualización del COVID-19. La motivación para hacerla no es otra que ocupar los ratos muertos de la cuarentena para aprender a crear gráficos interactivos con Bokeh.
@@ -965,7 +1078,7 @@ Y de paso ofrecer un vistazo objetivo a los datos que nos llegan sobre la enferm
         <title>COVID19 &#43; Bokeh</title>
         <link>https://thebooort.github.io/posts/covid_bokeh/</link>
         <pubDate>Thu, 19 Mar 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Thu, 19 Mar 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/covid_bokeh/</guid>
         <description>Este post comienza una serie sobre visualización del COVID-19. La motivación para hacerla no es otra que ocupar los ratos muertos de la cuarentena para aprender a crear gráficos interactivos con Bokeh.

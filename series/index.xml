@@ -11,10 +11,10 @@
     <description>Recent content in Series on Effective Axiomatization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
-    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Sat, 03 Oct 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Dec 2021 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/series/index.xml" rel="self" type="application/rss+xml" />
@@ -24,12 +24,12 @@
 
       
       <item>
-        <title>Math</title>
-        <link>https://thebooort.github.io/series/math/</link>
-        <pubDate>Sat, 03 Oct 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <title>Projects</title>
+        <link>https://thebooort.github.io/series/projects/</link>
+        <pubDate>Sun, 12 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         
-        <guid>https://thebooort.github.io/series/math/</guid>
+        <guid>https://thebooort.github.io/series/projects/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
@@ -42,12 +42,12 @@
       </item>
       
       <item>
-        <title>Projects</title>
-        <link>https://thebooort.github.io/series/projects/</link>
-        <pubDate>Sat, 03 Oct 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <title>Math</title>
+        <link>https://thebooort.github.io/series/math/</link>
+        <pubDate>Fri, 10 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         
-        <guid>https://thebooort.github.io/series/projects/</guid>
+        <guid>https://thebooort.github.io/series/math/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
@@ -63,7 +63,7 @@
         <title>Data Science</title>
         <link>https://thebooort.github.io/series/data-science/</link>
         <pubDate>Wed, 09 Sep 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/series/data-science/</guid>
         <description></description>
@@ -81,7 +81,7 @@
         <title>Visualization</title>
         <link>https://thebooort.github.io/series/visualization/</link>
         <pubDate>Wed, 09 Sep 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/series/visualization/</guid>
         <description></description>
@@ -99,7 +99,7 @@
         <title>Baduk</title>
         <link>https://thebooort.github.io/series/baduk/</link>
         <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/series/baduk/</guid>
         <description></description>
@@ -117,7 +117,7 @@
         <title>Comunicación Científica</title>
         <link>https://thebooort.github.io/series/comunicaci%C3%B3n-cient%C3%ADfica/</link>
         <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/series/comunicaci%C3%B3n-cient%C3%ADfica/</guid>
         <description></description>
@@ -135,7 +135,7 @@
         <title>Divulgación científica</title>
         <link>https://thebooort.github.io/series/divulgaci%C3%B3n-cient%C3%ADfica/</link>
         <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/series/divulgaci%C3%B3n-cient%C3%ADfica/</guid>
         <description></description>
@@ -153,7 +153,7 @@
         <title>CSGO</title>
         <link>https://thebooort.github.io/series/csgo/</link>
         <pubDate>Thu, 23 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/series/csgo/</guid>
         <description></description>
@@ -171,7 +171,7 @@
         <title>COVID19</title>
         <link>https://thebooort.github.io/series/covid19/</link>
         <pubDate>Fri, 10 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/series/covid19/</guid>
         <description></description>
@@ -189,7 +189,7 @@
         <title>DataViz</title>
         <link>https://thebooort.github.io/series/dataviz/</link>
         <pubDate>Sun, 29 Mar 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/series/dataviz/</guid>
         <description></description>
@@ -207,7 +207,7 @@
         <title>RecSys</title>
         <link>https://thebooort.github.io/series/recsys/</link>
         <pubDate>Sat, 28 Mar 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/series/recsys/</guid>
         <description></description>
@@ -225,7 +225,7 @@
         <title>COVID19 visualization</title>
         <link>https://thebooort.github.io/series/covid19-visualization/</link>
         <pubDate>Sun, 22 Mar 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/series/covid19-visualization/</guid>
         <description></description>

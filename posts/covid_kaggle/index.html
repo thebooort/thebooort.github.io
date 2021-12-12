@@ -15,9 +15,9 @@
 
 <script defer src="/js/fuse.min.94c78ad70b02749822921660cf4e9f0b3701bc0680c421afb784a78228de0275.js"></script>
 
-<script defer src="/js/helper/getParents.min.ccd45f158c1b17849307ba913a72beac239c410f2b6e648496a79842da84e55b.js"></script>
+<script defer src="/js/helper/getParents.min.1618c696be7c98933f9a92677f518b512a74e55bdbb976b09936b4182e93181b.js"></script>
 
-<script defer src="/js/helper/fadeinout.min.9fb19682560d5fa5596fffec85da605067c4acc86aad05add4d8fff9d362a446.js"></script>
+<script defer src="/js/helper/fadeinout.min.93a331f96194789a542f33690bbe4f0c102c7e78ffc018217f5a1c33010bad91.js"></script>
 
 <script defer src="/js/helper/closest.min.js"></script>
   
@@ -1220,7 +1220,7 @@
     <meta property="twitter:description" content="COVID19 Kaggle Challenge: Construyendo un recomendador de artículos sobre COVID19">
   
 
-<meta name="generator" content="Hugo 0.87.0" />
+<meta name="generator" content="Hugo 0.68.3" />
 <meta name="msapplication-TileColor" content="#fff">
 
 <meta name="theme-color" content="#fff">
@@ -1329,19 +1329,11 @@
         </a>
         
         <a href="#" class="dropdown-item select-theme__item ">
-          hacker
-        </a>
-        
-        <a href="#" class="dropdown-item select-theme__item ">
           light
         </a>
         
         <a href="#" class="dropdown-item select-theme__item ">
           solarized
-        </a>
-        
-        <a href="#" class="dropdown-item select-theme__item ">
-          kimbie
         </a>
         
       
@@ -1432,7 +1424,7 @@
 
       
         <li class="navbarm__menu--item ">
-          <a href="https://www.spreaker.com/show/the-fluxions">Podcast</a>
+          <a href="https://thefluxions.github.io">Podcast</a>
         </li>
       
       
@@ -1486,19 +1478,11 @@
         </a>
         
         <a href="#" class="dropdown-item select-theme__item ">
-          hacker
-        </a>
-        
-        <a href="#" class="dropdown-item select-theme__item ">
           light
         </a>
         
         <a href="#" class="dropdown-item select-theme__item ">
           solarized
-        </a>
-        
-        <a href="#" class="dropdown-item select-theme__item ">
-          kimbie
         </a>
         
       
@@ -1545,7 +1529,7 @@
   
   
   
-  <a href="https://www.spreaker.com/show/the-fluxions" class="navbar__menu-item navbar__slide-down " dir="ltr" data-ani="true">Podcast</a>
+  <a href="https://thefluxions.github.io" class="navbar__menu-item navbar__slide-down " dir="ltr" data-ani="true">Podcast</a>
   
   
   
@@ -1695,14 +1679,14 @@
 <p>En este aspecto, trabajando con abstract y texto, tendremos que saber cuantas palabras realmente van a entrar a nuestro sistema. Para ello una diagramas de cajas puede sernos útil:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span><span class="lnt">5
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="n">df</span><span class="p">[[</span><span class="s1">&#39;abstract_word_count&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span><span class="o">=</span><span class="s1">&#39;box&#39;</span><span class="p">,</span> <span class="n">title</span><span class="o">=</span><span class="s1">&#39;Boxplot of Word Count&#39;</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="mi">6</span><span class="p">))</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">df</span><span class="p">[[</span><span class="s1">&#39;abstract_word_count&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span><span class="o">=</span><span class="s1">&#39;box&#39;</span><span class="p">,</span> <span class="n">title</span><span class="o">=</span><span class="s1">&#39;Boxplot of Word Count&#39;</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="mi">6</span><span class="p">))</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 
 <span class="n">df</span><span class="p">[[</span><span class="s1">&#39;body_word_count&#39;</span><span class="p">]]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">kind</span><span class="o">=</span><span class="s1">&#39;box&#39;</span><span class="p">,</span> <span class="n">title</span><span class="o">=</span><span class="s1">&#39;Boxplot of Word Count&#39;</span><span class="p">,</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="mi">6</span><span class="p">))</span>
@@ -1714,7 +1698,7 @@
 <p>Además, una nube de palabras tambien puede darnos una idea aproximada de qué palabras tienen importancia (tanto aquellas que son importante como las que no).</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
@@ -1724,7 +1708,7 @@
 </span><span class="lnt">8
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="k">for</span> <span class="n">key</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">&#39;abstract&#39;</span><span class="p">,</span><span class="s1">&#39;title&#39;</span><span class="p">,</span><span class="s1">&#39;full_text&#39;</span><span class="p">]:</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="k">for</span> <span class="n">key</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">&#39;abstract&#39;</span><span class="p">,</span><span class="s1">&#39;title&#39;</span><span class="p">,</span><span class="s1">&#39;full_text&#39;</span><span class="p">]:</span>
     <span class="n">total_words</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="n">key</span><span class="p">]</span><span class="o">.</span><span class="n">values</span>
     <span class="n">wordcloud</span> <span class="o">=</span> <span class="n">WordCloud</span><span class="p">(</span><span class="n">width</span><span class="o">=</span><span class="mi">1800</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">1200</span><span class="p">)</span><span class="o">.</span><span class="n">generate</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">total_words</span><span class="p">))</span>
     <span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span> <span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">30</span><span class="p">,</span><span class="mi">10</span><span class="p">)</span> <span class="p">)</span>
@@ -1741,14 +1725,14 @@
 <p>Para esta seccion siguiendo un código de ajrwhite, usamos scapy. La idea es tokenizar el texto, no solo para esta parte, si no para cualquier analisis o algoritmo posterior, quedandonos con un texto depurado y palabras que realmente sean importante para etiquetar, clasificar, o mdelizar estos textos.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span><span class="lnt">5
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="c1"># importamos scispacy un paquete para trabajar spaCy con textos científicos y usamos el modelo</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="c1"># importamos scispacy un paquete para trabajar spaCy con textos científicos y usamos el modelo</span>
 <span class="c1"># en_core_sci_md que contine pipeline de spacy especifica para textos biomédicos (50k palabras)</span>
 <span class="kn">import</span> <span class="nn">en_core_sci_md</span>
 <span class="n">nlp</span> <span class="o">=</span> <span class="n">en_core_sci_md</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="n">disable</span><span class="o">=</span><span class="p">[</span><span class="s2">&#34;tagger&#34;</span><span class="p">,</span> <span class="s2">&#34;parser&#34;</span><span class="p">,</span> <span class="s2">&#34;ner&#34;</span><span class="p">])</span>
@@ -1759,7 +1743,7 @@
 Añadiéndolas lanzamos finalmente la tokenizacion y la aplicamos sobre nuestras columnas de texto.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+<pre class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -1782,13 +1766,13 @@ Añadiéndolas lanzamos finalmente la tokenizacion y la aplicamos sobre nuestras
 </span><span class="lnt">21
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="n">customize_stop_words</span> <span class="o">=</span> <span class="p">[</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">customize_stop_words</span> <span class="o">=</span> <span class="p">[</span>
     <span class="s1">&#39;doi&#39;</span><span class="p">,</span> <span class="s1">&#39;preprint&#39;</span><span class="p">,</span> <span class="s1">&#39;copyright&#39;</span><span class="p">,</span> <span class="s1">&#39;peer&#39;</span><span class="p">,</span> <span class="s1">&#39;reviewed&#39;</span><span class="p">,</span> <span class="s1">&#39;org&#39;</span><span class="p">,</span> <span class="s1">&#39;https&#39;</span><span class="p">,</span> <span class="s1">&#39;et&#39;</span><span class="p">,</span> <span class="s1">&#39;al&#39;</span><span class="p">,</span> <span class="s1">&#39;author&#39;</span><span class="p">,</span> <span class="s1">&#39;figure&#39;</span><span class="p">,</span> 
     <span class="s1">&#39;rights&#39;</span><span class="p">,</span> <span class="s1">&#39;reserved&#39;</span><span class="p">,</span> <span class="s1">&#39;permission&#39;</span><span class="p">,</span> <span class="s1">&#39;used&#39;</span><span class="p">,</span> <span class="s1">&#39;using&#39;</span><span class="p">,</span> <span class="s1">&#39;biorxiv&#39;</span><span class="p">,</span> <span class="s1">&#39;fig&#39;</span><span class="p">,</span> <span class="s1">&#39;fig.&#39;</span><span class="p">,</span> <span class="s1">&#39;al.&#39;</span><span class="p">,</span>
     <span class="s1">&#39;di&#39;</span><span class="p">,</span> <span class="s1">&#39;la&#39;</span><span class="p">,</span> <span class="s1">&#39;il&#39;</span><span class="p">,</span> <span class="s1">&#39;del&#39;</span><span class="p">,</span> <span class="s1">&#39;le&#39;</span><span class="p">,</span> <span class="s1">&#39;della&#39;</span><span class="p">,</span> <span class="s1">&#39;dei&#39;</span><span class="p">,</span> <span class="s1">&#39;delle&#39;</span><span class="p">,</span> <span class="s1">&#39;una&#39;</span><span class="p">,</span> <span class="s1">&#39;da&#39;</span><span class="p">,</span>  <span class="s1">&#39;dell&#39;</span><span class="p">,</span>  <span class="s1">&#39;non&#39;</span><span class="p">,</span> <span class="s1">&#39;si&#39;</span><span class="p">,</span><span class="s1">&#39;elsevier&#39;</span><span class="p">,</span>
     <span class="s1">&#39;unrestricted&#39;</span><span class="p">,</span> <span class="s1">&#39;grant&#39;</span><span class="p">,</span> <span class="s1">&#39;repository&#39;</span><span class="p">,</span> <span class="s1">&#39;original&#39;</span><span class="p">,</span> <span class="s1">&#39;acknowledgement&#39;</span><span class="p">,</span> <span class="s1">&#39;permission&#39;</span><span class="p">,</span> <span class="s1">&#39;centre&#39;</span><span class="p">]</span>
 <span class="k">for</span> <span class="n">w</span> <span class="ow">in</span> <span class="n">customize_stop_words</span><span class="p">:</span>
-    <span class="n">nlp</span><span class="o">.</span><span class="n">vocab</span><span class="p">[</span><span class="n">w</span><span class="p">]</span><span class="o">.</span><span class="n">is_stop</span> <span class="o">=</span> <span class="kc">True</span>
+    <span class="n">nlp</span><span class="o">.</span><span class="n">vocab</span><span class="p">[</span><span class="n">w</span><span class="p">]</span><span class="o">.</span><span class="n">is_stop</span> <span class="o">=</span> <span class="bp">True</span>
     
 <span class="n">stop_words</span> <span class="o">=</span> <span class="n">nlp</span><span class="o">.</span><span class="n">Defaults</span><span class="o">.</span><span class="n">stop_words</span>
 <span class="c1"># definimos el tokenizador con las stopwords </span>
@@ -1810,13 +1794,13 @@ Añadiéndolas lanzamos finalmente la tokenizacion y la aplicamos sobre nuestras
 <p>Importando sklearn usar cualquiera de estos dos algoritmos es muy sencillo. Además, podemos añadir el tokenizador que queramos, en este caso el que hemos construido con spacy.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="n">features</span>  <span class="o">=</span> <span class="mi">10000</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">features</span>  <span class="o">=</span> <span class="mi">10000</span>
 <span class="n">tf_vectorizer</span> <span class="o">=</span> <span class="n">CountVectorizer</span><span class="p">(</span><span class="n">max_features</span><span class="o">=</span><span class="n">features</span><span class="p">,</span><span class="n">tokenizer</span> <span class="o">=</span> <span class="n">spacy_tokenizer</span><span class="p">,</span> <span class="n">min_df</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
 <span class="n">X_tf</span> <span class="o">=</span> <span class="n">tf_vectorizer</span><span class="o">.</span><span class="n">fit_transform</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="s1">&#39;abstract&#39;</span><span class="p">])</span>
 <span class="n">tf_feat_name</span> <span class="o">=</span> <span class="n">tf_vectorizer</span><span class="o">.</span><span class="n">get_feature_names</span><span class="p">()</span>
@@ -1826,12 +1810,12 @@ Añadiéndolas lanzamos finalmente la tokenizacion y la aplicamos sobre nuestras
 <p>LDA es  basciamente un método estadístico que busca encontrar una combinación lineal de rasgos que caracterizan o separan dos o más clases de objetos o eventos. La combinación resultante la podemos utilizar para separar nuestros textos en grupos y obtener qué palabras aparecen con más frecuencia dentro de esos grupos, a fin de caracterizarlos.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="n">topics</span> <span class="o">=</span> <span class="mi">7</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">topics</span> <span class="o">=</span> <span class="mi">7</span>
 <span class="n">lda_model</span> <span class="o">=</span> <span class="n">LatentDirichletAllocation</span><span class="p">(</span><span class="n">learning_method</span><span class="o">=</span><span class="s1">&#39;online&#39;</span><span class="p">,</span><span class="n">random_state</span><span class="o">=</span><span class="mi">20</span><span class="p">,</span><span class="n">n_components</span><span class="o">=</span><span class="n">topics</span><span class="p">)</span>
 <span class="n">lda_output</span> <span class="o">=</span><span class="n">lda_model</span><span class="o">.</span><span class="n">fit_transform</span><span class="p">(</span><span class="n">X_tf</span><span class="p">)</span>
 </code></pre></td></tr></table>
@@ -1842,12 +1826,12 @@ Añadiéndolas lanzamos finalmente la tokenizacion y la aplicamos sobre nuestras
 <p>Os lo recomiendo.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="c1"># preparing for plotting pyLDAvis</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="c1"># preparing for plotting pyLDAvis</span>
 <span class="o">%</span><span class="n">matplotlib</span> <span class="n">inline</span>
 <span class="n">pyLDAvis</span><span class="o">.</span><span class="n">enable_notebook</span><span class="p">()</span>
 </code></pre></td></tr></table>
@@ -1855,13 +1839,13 @@ Añadiéndolas lanzamos finalmente la tokenizacion y la aplicamos sobre nuestras
 </div><p>La visualización está diseñada para ser utilizada en cualquier notebook, pero también se puede guardar en un archivo HTML independiente para compartir fácilmente:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="n">pyLDAvis</span><span class="o">.</span><span class="n">sklearn</span><span class="o">.</span><span class="n">prepare</span><span class="p">(</span><span class="n">lda_model</span><span class="p">,</span> <span class="n">X_tf</span><span class="p">,</span> <span class="n">tf_vectorizer</span><span class="p">)</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="n">pyLDAvis</span><span class="o">.</span><span class="n">sklearn</span><span class="o">.</span><span class="n">prepare</span><span class="p">(</span><span class="n">lda_model</span><span class="p">,</span> <span class="n">X_tf</span><span class="p">,</span> <span class="n">tf_vectorizer</span><span class="p">)</span>
 <span class="c1"># if you want to save it </span>
 <span class="c1"># P=pyLDAvis.sklearn.prepare(lda_model, X_tf, tf_vectorizer)</span>
 <span class="c1"># pyLDAvis.save_html(p, &#39;lda.html&#39;)</span>
@@ -1882,15 +1866,15 @@ Topic 6 ['health', 'influenza', 'risk', 'data', 'cases', 'disease', 'outbreak']
 </code></pre><p>Podemos estudiar las correlaciones entre las puntuaciones de los topics de cada paper:</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="c1"># plotting results</span>
-<span class="kn">import</span> <span class="nn">seaborn</span> <span class="k">as</span> <span class="nn">sns</span>
-<span class="n">sns</span><span class="o">.</span><span class="n">heatmap</span><span class="p">(</span><span class="nb">abs</span><span class="p">(</span><span class="n">ldadf</span><span class="p">[</span><span class="n">columns</span><span class="p">]</span><span class="o">.</span><span class="n">corr</span><span class="p">()),</span><span class="n">annot</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="c1"># plotting results</span>
+<span class="kn">import</span> <span class="nn">seaborn</span> <span class="kn">as</span> <span class="nn">sns</span>
+<span class="n">sns</span><span class="o">.</span><span class="n">heatmap</span><span class="p">(</span><span class="nb">abs</span><span class="p">(</span><span class="n">ldadf</span><span class="p">[</span><span class="n">columns</span><span class="p">]</span><span class="o">.</span><span class="n">corr</span><span class="p">()),</span><span class="n">annot</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s2">&#34; Correlation Plot&#34;</span><span class="p">)</span>
 </code></pre></td></tr></table>
 </div>
@@ -1899,7 +1883,7 @@ Topic 6 ['health', 'influenza', 'risk', 'data', 'cases', 'disease', 'outbreak']
 <p>Para obtener la recomendacion final, bastará con comparar las componentes que identifican a cada paper. Seleccionado uno cualquiera, calcularemos la distancia con el resto de papers y devolveremos los mas cercanos. Esta distancia la podemos definir como queramos: RMSE, Cosine similarity, etc.</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+<pre class="chroma"><code><span class="lnt"> 1
 </span><span class="lnt"> 2
 </span><span class="lnt"> 3
 </span><span class="lnt"> 4
@@ -1917,7 +1901,7 @@ Topic 6 ['health', 'influenza', 'risk', 'data', 'cases', 'disease', 'outbreak']
 </span><span class="lnt">16
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="kn">from</span> <span class="nn">sklearn.metrics.pairwise</span> <span class="kn">import</span> <span class="n">cosine_distances</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="kn">from</span> <span class="nn">sklearn.metrics.pairwise</span> <span class="kn">import</span> <span class="n">cosine_distances</span>
 <span class="kn">from</span> <span class="nn">math</span> <span class="kn">import</span> <span class="n">sqrt</span>
 <span class="k">def</span> <span class="nf">paper_recommendation_tool</span><span class="p">(</span><span class="n">selected_paper_id</span><span class="p">):</span>
     <span class="n">selected_paper</span> <span class="o">=</span> <span class="n">df_total</span><span class="p">[(</span><span class="n">df_total</span><span class="p">[</span><span class="s1">&#39;paper_id&#39;</span><span class="p">]</span><span class="o">==</span><span class="n">selected_paper_id</span><span class="p">)]</span>
@@ -1938,16 +1922,16 @@ Topic 6 ['health', 'influenza', 'risk', 'data', 'cases', 'disease', 'outbreak']
 </div><p>Probamos un caso concreto</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
-<pre tabindex="0" class="chroma"><code><span class="lnt">1
+<pre class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
 </span><span class="lnt">3
 </span><span class="lnt">4
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="c1"># Example: we are interested in 4602afcb8d95ebd9da583124384fd74299d20f5b, because his use of SPINT2</span>
+<pre class="chroma"><code class="language-python" data-lang="python"><span class="c1"># Example: we are interested in 4602afcb8d95ebd9da583124384fd74299d20f5b, because his use of SPINT2</span>
 <span class="n">dominant_topic</span><span class="p">,</span> <span class="n">recommended_papers</span> <span class="o">=</span> <span class="n">paper_recommendation_tool</span><span class="p">(</span><span class="s1">&#39;4602afcb8d95ebd9da583124384fd74299d20f5b&#39;</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">dominant_topic</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">recommended_papers</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="n">dominant_topic</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="n">recommended_papers</span><span class="p">)</span>
 </code></pre></td></tr></table>
 </div>
 </div>
@@ -2276,7 +2260,7 @@ Topic 6 ['health', 'influenza', 'risk', 'data', 'cases', 'disease', 'outbreak']
 </div>
 
 
-<script defer src="/js/swipe.min.d70095d96ef6a016133ea2c732c5d4713539d335b739178e356af46f54cf0a16.js"></script>
+<script defer src="/js/swipe.min.08ff2be1b74347bad9e267f732f1388d271b2f9d97b6a8a87bd6a510f17c5ad2.js"></script>
 
 <script defer src="/js/micromodal.min.de01b44b2f383056bbcaf6ee921fd385d79108ec1129afd0eb2f3f5a07e11f45.js"></script>
 

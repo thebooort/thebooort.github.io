@@ -11,8 +11,8 @@
     <description>Recent content in Data Science on Effective Axiomatization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
-    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
     <lastBuildDate>Wed, 09 Sep 2020 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
@@ -27,7 +27,7 @@
         <title>¿Cómo nos afectará la crisis climática? Una perspectiva local en Granada</title>
         <link>https://thebooort.github.io/posts/calentamiento_granada/</link>
         <pubDate>Wed, 09 Sep 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Wed, 09 Sep 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/calentamiento_granada/</guid>
         <description>Image credit: Li-An Lim
@@ -94,7 +94,7 @@ Además, como muchas veces es algo de lo que se habla muy en global, intento ofr
         <title>El aire que respiramos durante el confinamiento (actualización con datos de agosto)</title>
         <link>https://thebooort.github.io/posts/pollution_levels_update_agosto/</link>
         <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sun, 06 Sep 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/pollution_levels_update_agosto/</guid>
         <description>Image credit: Ivan Aleksic @ivalex Unsplash
@@ -160,7 +160,7 @@ Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de
         <title>Winning probabilities in Go 19x19 (LeelaZero)</title>
         <link>https://thebooort.github.io/posts/baduk-go-winning-probabilities-2/</link>
         <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sun, 30 Aug 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/baduk-go-winning-probabilities-2/</guid>
         <description>photo credits: Photo by Joe Woods on Unsplash
@@ -231,7 +231,7 @@ I found this visualization quite interested but i couldn&amp;rsquo;t find any li
         <title>The PLot Classifier</title>
         <link>https://thebooort.github.io/posts/theplotclassifier/</link>
         <pubDate>Wed, 26 Aug 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Wed, 26 Aug 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/theplotclassifier/</guid>
         <description>The Plot Classifier   (Yeah I designed the logo too! Does it count as artistic design knowledge? :P) Repository All this info and more can be found at the repo
@@ -302,7 +302,7 @@ Index  Motivation Approach  Data Collect ML Approach  Neural Net architecture Re
         <title>El aire que respiramos durante el confinamiento (actualización con datos de abril)</title>
         <link>https://thebooort.github.io/posts/pollution_levels_update_abril/</link>
         <pubDate>Fri, 01 May 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 01 May 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/pollution_levels_update_abril/</guid>
         <description>Image credit: Ivan Aleksic @ivalex Unsplash
@@ -368,7 +368,7 @@ Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de
         <title>Where to run after confinement?</title>
         <link>https://thebooort.github.io/posts/where-to-run/</link>
         <pubDate>Thu, 30 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Thu, 30 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/where-to-run/</guid>
         <description>We can go for a quick run, but&amp;hellip; where? From now on (technically May 2nd), in Spain (specifically in my city Granada), we are allowed to go for a quick run or walk in the morning. Those are really good news for every runner and trail runner I know, but with great power comes great responsability.
@@ -421,7 +421,7 @@ My main concern about going outside for a quick run is how many people will I en
         <title>Winning probabilities in Go (leela)</title>
         <link>https://thebooort.github.io/posts/baduk-go-winning-probabilities/</link>
         <pubDate>Sun, 26 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sun, 26 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/baduk-go-winning-probabilities/</guid>
         <description>photo credits: Photo by Joe Woods on Unsplash
@@ -492,7 +492,7 @@ I am starting with a 9x9, because I am not familiar with any parser to exchange 
         <title>Data Science in my last CS:GO match (1)</title>
         <link>https://thebooort.github.io/posts/analyzing-data-from-my-last-csgo-match/</link>
         <pubDate>Thu, 23 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Thu, 23 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/analyzing-data-from-my-last-csgo-match/</guid>
         <description>Image credit: La Tercera
@@ -558,7 +558,7 @@ The game pits two teams against each other: the Terrorists and the Counter-Terro
         <title>¿Cómo vamos? Estimando el ritmo de contagio </title>
         <link>https://thebooort.github.io/posts/r_0granada/</link>
         <pubDate>Fri, 10 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 10 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/r_0granada/</guid>
         <description>Image credit: CDC Unsplash
@@ -624,7 +624,7 @@ Estimando R_0 de Granada (ritmo de contagio) en ventanas semanales En lugar de h
         <title>El aire que respiramos durante el confinamiento</title>
         <link>https://thebooort.github.io/posts/pollution_levels/</link>
         <pubDate>Wed, 08 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Wed, 08 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/pollution_levels/</guid>
         <description>Image credit: Ivan Aleksic @ivalex Unsplash
@@ -690,7 +690,7 @@ Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de
         <title>Did confinement affect my sleep/exercise routine?</title>
         <link>https://thebooort.github.io/posts/analyzing-sleep-patterns-before-and-during-covid19-quarentine/</link>
         <pubDate>Mon, 06 Apr 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Mon, 06 Apr 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/analyzing-sleep-patterns-before-and-during-covid19-quarentine/</guid>
         <description>Image credit: Javier Ezpeleta @javierezpeleta Unsplash

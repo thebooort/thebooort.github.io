@@ -11,10 +11,10 @@
     <description>Recent content in Projects on Effective Axiomatization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>bortiz@gmail.com (Bart Ortiz)</managingEditor>
-    <webMaster>bortiz@gmail.com (Bart Ortiz)</webMaster>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Sat, 03 Oct 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Dec 2021 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/series/projects/index.xml" rel="self" type="application/rss+xml" />
@@ -24,10 +24,123 @@
 
       
       <item>
+        <title>My coffee Journey... Wrapped 2021</title>
+        <link>https://thebooort.github.io/posts/coffee2021/</link>
+        <pubDate>Sun, 12 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Sun, 12 Dec 2021 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/coffee2021/</guid>
+        <description>Coffee 2021 Wrapped   Motivation WIP!
+                LINKS  Repository (code and examples)  </description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/coffee2021wrapped.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>European Go Championship 2021</title>
+        <link>https://thebooort.github.io/posts/go_chart_2021/</link>
+        <pubDate>Fri, 10 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Fri, 10 Dec 2021 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/go_chart_2021/</guid>
+        <description>Visualization of the European Go Championship&amp;rsquo;s Finals   Motivation Just a few days ago the world chess championship ended. Of course, it is a very important event that always appears in the media. FivethirtyEigth is no exception. I am not a big fan of chess (I practiced it in my high school days, but I never spent enough time to be competent at it), but like any other sporting event, I find it fascinating to keep up to date with what is going on.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/final1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Artifical Intelligence</category>
+            
+          
+            
+              <category>Math</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Math</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+            
+              <category>Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>The global map of math (well, kind of)</title>
         <link>https://thebooort.github.io/posts/mscplot/</link>
         <pubDate>Sat, 03 Oct 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sat, 03 Oct 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/mscplot/</guid>
         <description>The global map of math (not really, but it is close)   Motivation Lately I have been very obsessed with finding a way to create a concept map of modern mathematics. And it is not being easy. If we assumed that it was possible and that we had all the information, we would have a huge amount of information. The ramifications of mathematics are enormous and there are so many interconnected areas.</description>
@@ -87,7 +200,7 @@
         <title>The PLot Classifier</title>
         <link>https://thebooort.github.io/posts/theplotclassifier/</link>
         <pubDate>Wed, 26 Aug 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Wed, 26 Aug 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/theplotclassifier/</guid>
         <description>The Plot Classifier   (Yeah I designed the logo too! Does it count as artistic design knowledge? :P) Repository All this info and more can be found at the repo
@@ -158,7 +271,7 @@ Index  Motivation Approach  Data Collect ML Approach  Neural Net architecture Re
         <title>Visualizing OEIS sequences</title>
         <link>https://thebooort.github.io/posts/oeisviz/</link>
         <pubDate>Fri, 14 Aug 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@gmail.com (Bart Ortiz)</author>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 14 Aug 2020 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/oeisviz/</guid>
         <description>OEIS Sequences Visualized   Motivation There is not much to tell here. If you don&amp;rsquo;t know what the OEIS is, there are hours of fun waiting for you. It is basically an online encyclopedia that collects almost all relevant integer sequences. You can find everything, but in particular many properties and curious numbers.
