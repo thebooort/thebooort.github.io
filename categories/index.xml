@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Categories on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/categories/</link>
+    <description>Recent content in Categories on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Sun, 12 Dec 2021 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>coding</title>
+        <link>https://thebooort.github.io/categories/coding/</link>
+        <pubDate>Sun, 12 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/categories/coding/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Visualization</title>
+        <link>https://thebooort.github.io/categories/visualization/</link>
+        <pubDate>Sun, 12 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/categories/visualization/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Math</title>
+        <link>https://thebooort.github.io/categories/math/</link>
+        <pubDate>Fri, 10 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/categories/math/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Data Science</title>
+        <link>https://thebooort.github.io/categories/data-science/</link>
+        <pubDate>Wed, 09 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/categories/data-science/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Baduk</title>
+        <link>https://thebooort.github.io/categories/baduk/</link>
+        <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/categories/baduk/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Deep Learning</title>
+        <link>https://thebooort.github.io/categories/deep-learning/</link>
+        <pubDate>Wed, 26 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/categories/deep-learning/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Comunicación Científica</title>
+        <link>https://thebooort.github.io/categories/comunicaci%C3%B3n-cient%C3%ADfica/</link>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/categories/comunicaci%C3%B3n-cient%C3%ADfica/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Science Communication</title>
+        <link>https://thebooort.github.io/categories/science-communication/</link>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/categories/science-communication/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Gaming</title>
+        <link>https://thebooort.github.io/categories/gaming/</link>
+        <pubDate>Thu, 23 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/categories/gaming/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Kaggle</title>
+        <link>https://thebooort.github.io/categories/kaggle/</link>
+        <pubDate>Sat, 28 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/categories/kaggle/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>RecSys</title>
+        <link>https://thebooort.github.io/categories/recsys/</link>
+        <pubDate>Sat, 28 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/categories/recsys/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Research</title>
+        <link>https://thebooort.github.io/categories/research/</link>
+        <pubDate>Fri, 05 Apr 2019 20:45:24 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/categories/research/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

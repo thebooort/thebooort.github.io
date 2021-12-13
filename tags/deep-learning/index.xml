@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Deep Learning on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Wed, 26 Aug 2020 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>The PLot Classifier</title>
+        <link>https://thebooort.github.io/posts/theplotclassifier/</link>
+        <pubDate>Wed, 26 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Wed, 26 Aug 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/theplotclassifier/</guid>
+        <description>The Plot Classifier   (Yeah I designed the logo too! Does it count as artistic design knowledge? :P) Repository All this info and more can be found at the repo
+Any serious aspect you might find in this repo is purely coincidental Hey! the tool you don&amp;rsquo;t even know you need!
+(Silly summer project to know the name of that cool plot/chart/visualization you saw on a webpage)
+Index  Motivation Approach  Data Collect ML Approach  Neural Net architecture Results Nets trained you can find here   Streamlit  Screenshots   Heroku    Motivation This project was born from a personal doubt that I have come across several times: What is the name of that cool graphic?</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/logoTPC.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Machine Learning</category>
+            
+          
+            
+              <category>Deep Learning</category>
+            
+          
+            
+              <category>Transfer learning</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Deep Learning</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Destripando a Keras</title>
+        <link>https://thebooort.github.io/presentation/third/</link>
+        <pubDate>Fri, 21 Jun 2019 20:46:30 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Fri, 21 Jun 2019 20:46:30 +0900</atom:modified>
+        <guid>https://thebooort.github.io/presentation/third/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/destripandokeras.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Mathematics</category>
+            
+          
+            
+              <category>Computer Science</category>
+            
+          
+            
+              <category>Machine Learning</category>
+            
+          
+            
+              <category>Deep Learning</category>
+            
+          
+            
+              <category>Keras</category>
+            
+          
+            
+              <category>Neural Networks</category>
+            
+          
+        
+        
+          
+            
+              <category>Science Communication</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

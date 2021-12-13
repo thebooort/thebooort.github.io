@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Repository on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/tags/repository/</link>
+    <description>Recent content in Repository on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Mon, 23 Mar 2020 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/tags/repository/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>How to visualize a github repository evolution in time</title>
+        <link>https://thebooort.github.io/posts/perl6-viz/</link>
+        <pubDate>Mon, 23 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Mon, 23 Mar 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/perl6-viz/</guid>
+        <description>¡Ojo! Perl6 ya &amp;ldquo;no existe&amp;rdquo;, oficalmente el lenguaje ahora se llama ¡Raku! :)
+Perl6 Documentation Durante un breve periodo de tiempo estuve estudiando la evolución en las contribuciones a los repositorios de código. En muchas ocasiones se dice que este tipo de contribuciones siguen leyes de potencias, pero habitualmente esta afirmación va apoyada únicamente por un par de fits de distribuciones a los datos, sin contraste de hipótesis o comparación con otras posibles distribuciones.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/repo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Github</category>
+            
+          
+            
+              <category>Repository</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Perl6</category>
+            
+          
+            
+              <category>Raku</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

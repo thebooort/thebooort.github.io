@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Ecology on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/tags/ecology/</link>
+    <description>Recent content in Ecology on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Wed, 09 Sep 2020 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/tags/ecology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>¿Cómo nos afectará la crisis climática? Una perspectiva local en Granada</title>
+        <link>https://thebooort.github.io/posts/calentamiento_granada/</link>
+        <pubDate>Wed, 09 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Wed, 09 Sep 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/calentamiento_granada/</guid>
+        <description>Image credit: Li-An Lim
+Image credit: Markus Spiske
+La crisis climática en Granada   Motivación Este post recoge un hilo que hice para twitter. En el explico aspectos básicos de qué se utiliza para predecir cómo nos va a afectar la crisis climática.
+Además, como muchas veces es algo de lo que se habla muy en global, intento ofrecer una perspectiva local, hablando de lo que esas predicciones nos dicen para la región de Granada.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/planetb.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Ecology</category>
+            
+          
+            
+              <category>Climate Crisis</category>
+            
+          
+            
+              <category>crisis climática</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>El aire que respiramos durante el confinamiento (actualización con datos de agosto)</title>
+        <link>https://thebooort.github.io/posts/pollution_levels_update_agosto/</link>
+        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Sun, 06 Sep 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/pollution_levels_update_agosto/</guid>
+        <description>Image credit: Ivan Aleksic @ivalex Unsplash
+Este post es una actualización de uno más antiguo, dónde podréis encontrar información sobre dónde encontré los datos, tips para dibujar el gráfico y qué significa ¿Cómo afecta el confinamiento a los niveles de polución? Durante la cuarentena que estamos viviendo la reducción de la movilidad de las personas es evidente.
+Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de transporte público y algunas maquinarias pertenecientes a servicios que se encuentran inactivos, muchos medios se han hecho eco de la disminución en los niveles de polución ambiental.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/polucion.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Pollution</category>
+            
+          
+            
+              <category>Ecology</category>
+            
+          
+            
+              <category>Air Quality</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>El aire que respiramos durante el confinamiento (actualización con datos de abril)</title>
+        <link>https://thebooort.github.io/posts/pollution_levels_update_abril/</link>
+        <pubDate>Fri, 01 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Fri, 01 May 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/pollution_levels_update_abril/</guid>
+        <description>Image credit: Ivan Aleksic @ivalex Unsplash
+Este post es una actualización de uno más antiguo, dónde podréis encontrar información sobre dónde encontré los datos, tips para dibujar el gráfico y qué significa ¿Cómo afecta el confinamiento a los niveles de polución? Durante la cuarentena que estamos viviendo la reducción de la movilidad de las personas es evidente.
+Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de transporte público y algunas maquinarias pertenecientes a servicios que se encuentran inactivos, muchos medios se han hecho eco de la disminución en los niveles de polución ambiental.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/polucion.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Pollution</category>
+            
+          
+            
+              <category>Ecology</category>
+            
+          
+            
+              <category>Air Quality</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>El aire que respiramos durante el confinamiento</title>
+        <link>https://thebooort.github.io/posts/pollution_levels/</link>
+        <pubDate>Wed, 08 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Wed, 08 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/pollution_levels/</guid>
+        <description>Image credit: Ivan Aleksic @ivalex Unsplash
+¿Cómo afecta el confinamiento a los niveles de polución? Durante la cuarentena que estamos viviendo la reducción de la movilidad de las personas es evidente.
+Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de transporte público y algunas maquinarias pertenecientes a servicios que se encuentran inactivos, muchos medios se han hecho eco de la disminución en los niveles de polución ambiental. Es más, al ser COVID una enfermedad que afecta a las vías respiratorias, ya hay algunos analisis que relacionan la polución del aire con tasas de moratilidad mas altas por COVID.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/polucion.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Pollution</category>
+            
+          
+            
+              <category>Ecology</category>
+            
+          
+            
+              <category>Air Quality</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

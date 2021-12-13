@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/tags/</link>
+    <description>Recent content in Tags on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Sun, 12 Dec 2021 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Data</title>
+        <link>https://thebooort.github.io/tags/data/</link>
+        <pubDate>Sun, 12 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/data/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Python</title>
+        <link>https://thebooort.github.io/tags/python/</link>
+        <pubDate>Sun, 12 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/python/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Visualization</title>
+        <link>https://thebooort.github.io/tags/visualization/</link>
+        <pubDate>Sun, 12 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/visualization/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Artifical Intelligence</title>
+        <link>https://thebooort.github.io/tags/artifical-intelligence/</link>
+        <pubDate>Fri, 10 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/artifical-intelligence/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Math</title>
+        <link>https://thebooort.github.io/tags/math/</link>
+        <pubDate>Fri, 10 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/math/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Climate Crisis</title>
+        <link>https://thebooort.github.io/tags/climate-crisis/</link>
+        <pubDate>Wed, 09 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/climate-crisis/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>crisis climática</title>
+        <link>https://thebooort.github.io/tags/crisis-clim%C3%A1tica/</link>
+        <pubDate>Wed, 09 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/crisis-clim%C3%A1tica/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Ecology</title>
+        <link>https://thebooort.github.io/tags/ecology/</link>
+        <pubDate>Wed, 09 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/ecology/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Air Quality</title>
+        <link>https://thebooort.github.io/tags/air-quality/</link>
+        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/air-quality/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>COVID19</title>
+        <link>https://thebooort.github.io/tags/covid19/</link>
+        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/covid19/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Pollution</title>
+        <link>https://thebooort.github.io/tags/pollution/</link>
+        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/pollution/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Baduk</title>
+        <link>https://thebooort.github.io/tags/baduk/</link>
+        <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/baduk/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Go</title>
+        <link>https://thebooort.github.io/tags/go/</link>
+        <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/go/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Machine Learning</title>
+        <link>https://thebooort.github.io/tags/machine-learning/</link>
+        <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/machine-learning/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Deep Learning</title>
+        <link>https://thebooort.github.io/tags/deep-learning/</link>
+        <pubDate>Wed, 26 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/deep-learning/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Transfer learning</title>
+        <link>https://thebooort.github.io/tags/transfer-learning/</link>
+        <pubDate>Wed, 26 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/transfer-learning/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Algebra</title>
+        <link>https://thebooort.github.io/tags/algebra/</link>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/algebra/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Biología</title>
+        <link>https://thebooort.github.io/tags/biolog%C3%ADa/</link>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/biolog%C3%ADa/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Ciencia</title>
+        <link>https://thebooort.github.io/tags/ciencia/</link>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/ciencia/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Computación</title>
+        <link>https://thebooort.github.io/tags/computaci%C3%B3n/</link>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/computaci%C3%B3n/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Computación Matemática</title>
+        <link>https://thebooort.github.io/tags/computaci%C3%B3n-matem%C3%A1tica/</link>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/computaci%C3%B3n-matem%C3%A1tica/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Comunicación</title>
+        <link>https://thebooort.github.io/tags/comunicaci%C3%B3n/</link>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/comunicaci%C3%B3n/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Comunicación Científica</title>
+        <link>https://thebooort.github.io/tags/comunicaci%C3%B3n-cient%C3%ADfica/</link>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/comunicaci%C3%B3n-cient%C3%ADfica/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Divulgación</title>
+        <link>https://thebooort.github.io/tags/divulgaci%C3%B3n/</link>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/divulgaci%C3%B3n/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Matemáticas</title>
+        <link>https://thebooort.github.io/tags/matem%C3%A1ticas/</link>
+        <pubDate>Fri, 08 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/matem%C3%A1ticas/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>LaTeX</title>
+        <link>https://thebooort.github.io/tags/latex/</link>
+        <pubDate>Sun, 03 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/latex/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>R</title>
+        <link>https://thebooort.github.io/tags/r/</link>
+        <pubDate>Thu, 30 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/r/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Running</title>
+        <link>https://thebooort.github.io/tags/running/</link>
+        <pubDate>Thu, 30 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/running/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>CSGO</title>
+        <link>https://thebooort.github.io/tags/csgo/</link>
+        <pubDate>Thu, 23 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/csgo/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Mathematics</title>
+        <link>https://thebooort.github.io/tags/mathematics/</link>
+        <pubDate>Fri, 10 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/mathematics/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Statistics</title>
+        <link>https://thebooort.github.io/tags/statistics/</link>
+        <pubDate>Fri, 10 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/statistics/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Bar Chart Race</title>
+        <link>https://thebooort.github.io/tags/bar-chart-race/</link>
+        <pubDate>Sun, 29 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/bar-chart-race/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Flourish</title>
+        <link>https://thebooort.github.io/tags/flourish/</link>
+        <pubDate>Sun, 29 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/flourish/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Coding</title>
+        <link>https://thebooort.github.io/tags/coding/</link>
+        <pubDate>Sat, 28 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/coding/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Data Science</title>
+        <link>https://thebooort.github.io/tags/data-science/</link>
+        <pubDate>Sat, 28 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/data-science/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Kaggle</title>
+        <link>https://thebooort.github.io/tags/kaggle/</link>
+        <pubDate>Sat, 28 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/kaggle/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Recommedation Systems</title>
+        <link>https://thebooort.github.io/tags/recommedation-systems/</link>
+        <pubDate>Sat, 28 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/recommedation-systems/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Github</title>
+        <link>https://thebooort.github.io/tags/github/</link>
+        <pubDate>Mon, 23 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/github/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Perl6</title>
+        <link>https://thebooort.github.io/tags/perl6/</link>
+        <pubDate>Mon, 23 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/perl6/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Raku</title>
+        <link>https://thebooort.github.io/tags/raku/</link>
+        <pubDate>Mon, 23 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/raku/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Repository</title>
+        <link>https://thebooort.github.io/tags/repository/</link>
+        <pubDate>Mon, 23 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/repository/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Computer Science</title>
+        <link>https://thebooort.github.io/tags/computer-science/</link>
+        <pubDate>Fri, 21 Jun 2019 20:46:30 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/computer-science/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Keras</title>
+        <link>https://thebooort.github.io/tags/keras/</link>
+        <pubDate>Fri, 21 Jun 2019 20:46:30 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/keras/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Neural Networks</title>
+        <link>https://thebooort.github.io/tags/neural-networks/</link>
+        <pubDate>Fri, 21 Jun 2019 20:46:30 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/neural-networks/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Power Law</title>
+        <link>https://thebooort.github.io/tags/power-law/</link>
+        <pubDate>Fri, 05 Apr 2019 20:45:24 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/power-law/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>index</title>
+        <link>https://thebooort.github.io/tags/index/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/index/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

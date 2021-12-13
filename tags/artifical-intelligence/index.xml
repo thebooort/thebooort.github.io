@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Artifical Intelligence on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/tags/artifical-intelligence/</link>
+    <description>Recent content in Artifical Intelligence on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Fri, 10 Dec 2021 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/tags/artifical-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>European Go Championship 2021</title>
+        <link>https://thebooort.github.io/posts/go_chart_2021/</link>
+        <pubDate>Fri, 10 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Fri, 10 Dec 2021 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/go_chart_2021/</guid>
+        <description>Visualization of the European Go Championship&amp;rsquo;s Finals   Motivation Just a few days ago the world chess championship ended. Of course, it is a very important event that always appears in the media. FivethirtyEigth is no exception. I am not a big fan of chess (I practiced it in my high school days, but I never spent enough time to be competent at it), but like any other sporting event, I find it fascinating to keep up to date with what is going on.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/final1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Artifical Intelligence</category>
+            
+          
+            
+              <category>Math</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Math</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+            
+              <category>Projects</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

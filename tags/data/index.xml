@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Data on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/tags/data/</link>
+    <description>Recent content in Data on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Sun, 12 Dec 2021 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/tags/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>My coffee Journey... Wrapped 2021</title>
+        <link>https://thebooort.github.io/posts/coffee2021/</link>
+        <pubDate>Sun, 12 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Sun, 12 Dec 2021 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/coffee2021/</guid>
+        <description>Coffee 2021 Wrapped   Motivation WIP!
+                LINKS  Repository (code and examples)  </description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/coffee2021wrapped.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>European Go Championship 2021</title>
+        <link>https://thebooort.github.io/posts/go_chart_2021/</link>
+        <pubDate>Fri, 10 Dec 2021 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Fri, 10 Dec 2021 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/go_chart_2021/</guid>
+        <description>Visualization of the European Go Championship&amp;rsquo;s Finals   Motivation Just a few days ago the world chess championship ended. Of course, it is a very important event that always appears in the media. FivethirtyEigth is no exception. I am not a big fan of chess (I practiced it in my high school days, but I never spent enough time to be competent at it), but like any other sporting event, I find it fascinating to keep up to date with what is going on.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/final1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Artifical Intelligence</category>
+            
+          
+            
+              <category>Math</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Math</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+            
+              <category>Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>The global map of math (well, kind of)</title>
+        <link>https://thebooort.github.io/posts/mscplot/</link>
+        <pubDate>Sat, 03 Oct 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Sat, 03 Oct 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/mscplot/</guid>
+        <description>The global map of math (not really, but it is close)   Motivation Lately I have been very obsessed with finding a way to create a concept map of modern mathematics. And it is not being easy. If we assumed that it was possible and that we had all the information, we would have a huge amount of information. The ramifications of mathematics are enormous and there are so many interconnected areas.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/plotmsc1.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Math</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Math</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+            
+              <category>Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>¿Cómo nos afectará la crisis climática? Una perspectiva local en Granada</title>
+        <link>https://thebooort.github.io/posts/calentamiento_granada/</link>
+        <pubDate>Wed, 09 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Wed, 09 Sep 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/calentamiento_granada/</guid>
+        <description>Image credit: Li-An Lim
+Image credit: Markus Spiske
+La crisis climática en Granada   Motivación Este post recoge un hilo que hice para twitter. En el explico aspectos básicos de qué se utiliza para predecir cómo nos va a afectar la crisis climática.
+Además, como muchas veces es algo de lo que se habla muy en global, intento ofrecer una perspectiva local, hablando de lo que esas predicciones nos dicen para la región de Granada.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/planetb.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Ecology</category>
+            
+          
+            
+              <category>Climate Crisis</category>
+            
+          
+            
+              <category>crisis climática</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>El aire que respiramos durante el confinamiento (actualización con datos de agosto)</title>
+        <link>https://thebooort.github.io/posts/pollution_levels_update_agosto/</link>
+        <pubDate>Sun, 06 Sep 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Sun, 06 Sep 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/pollution_levels_update_agosto/</guid>
+        <description>Image credit: Ivan Aleksic @ivalex Unsplash
+Este post es una actualización de uno más antiguo, dónde podréis encontrar información sobre dónde encontré los datos, tips para dibujar el gráfico y qué significa ¿Cómo afecta el confinamiento a los niveles de polución? Durante la cuarentena que estamos viviendo la reducción de la movilidad de las personas es evidente.
+Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de transporte público y algunas maquinarias pertenecientes a servicios que se encuentran inactivos, muchos medios se han hecho eco de la disminución en los niveles de polución ambiental.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/polucion.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Pollution</category>
+            
+          
+            
+              <category>Ecology</category>
+            
+          
+            
+              <category>Air Quality</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Winning probabilities in Go 19x19 (LeelaZero)</title>
+        <link>https://thebooort.github.io/posts/baduk-go-winning-probabilities-2/</link>
+        <pubDate>Sun, 30 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Sun, 30 Aug 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/baduk-go-winning-probabilities-2/</guid>
+        <description>photo credits: Photo by Joe Woods on Unsplash
+Plotting winning probabilities in a 19x19 Go / Baduk game From this older post:
+ This morning I found this post on Reddit about winning probability for black for all starting positions.
+I found this visualization quite interested but i couldn&amp;rsquo;t find any link to a source code to generate it or the data used to generate it, so I decided to replicate it myself.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/go.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Machine Learning</category>
+            
+          
+            
+              <category>Go</category>
+            
+          
+            
+              <category>Baduk</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Baduk</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Baduk</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>The PLot Classifier</title>
+        <link>https://thebooort.github.io/posts/theplotclassifier/</link>
+        <pubDate>Wed, 26 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Wed, 26 Aug 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/theplotclassifier/</guid>
+        <description>The Plot Classifier   (Yeah I designed the logo too! Does it count as artistic design knowledge? :P) Repository All this info and more can be found at the repo
+Any serious aspect you might find in this repo is purely coincidental Hey! the tool you don&amp;rsquo;t even know you need!
+(Silly summer project to know the name of that cool plot/chart/visualization you saw on a webpage)
+Index  Motivation Approach  Data Collect ML Approach  Neural Net architecture Results Nets trained you can find here   Streamlit  Screenshots   Heroku    Motivation This project was born from a personal doubt that I have come across several times: What is the name of that cool graphic?</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/logoTPC.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Machine Learning</category>
+            
+          
+            
+              <category>Deep Learning</category>
+            
+          
+            
+              <category>Transfer learning</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Deep Learning</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Visualizing OEIS sequences</title>
+        <link>https://thebooort.github.io/posts/oeisviz/</link>
+        <pubDate>Fri, 14 Aug 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Fri, 14 Aug 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/oeisviz/</guid>
+        <description>OEIS Sequences Visualized   Motivation There is not much to tell here. If you don&amp;rsquo;t know what the OEIS is, there are hours of fun waiting for you. It is basically an online encyclopedia that collects almost all relevant integer sequences. You can find everything, but in particular many properties and curious numbers.
+Looking at some pictures of number visualizations I discovered one that assigned a color to each of the 10 digits and colored a grid according to the order of the digits of the chosen constant.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/oeisviz1.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Math</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Math</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>Math</category>
+            
+          
+            
+              <category>Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>El aire que respiramos durante el confinamiento (actualización con datos de abril)</title>
+        <link>https://thebooort.github.io/posts/pollution_levels_update_abril/</link>
+        <pubDate>Fri, 01 May 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Fri, 01 May 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/pollution_levels_update_abril/</guid>
+        <description>Image credit: Ivan Aleksic @ivalex Unsplash
+Este post es una actualización de uno más antiguo, dónde podréis encontrar información sobre dónde encontré los datos, tips para dibujar el gráfico y qué significa ¿Cómo afecta el confinamiento a los niveles de polución? Durante la cuarentena que estamos viviendo la reducción de la movilidad de las personas es evidente.
+Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de transporte público y algunas maquinarias pertenecientes a servicios que se encuentran inactivos, muchos medios se han hecho eco de la disminución en los niveles de polución ambiental.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/polucion.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Pollution</category>
+            
+          
+            
+              <category>Ecology</category>
+            
+          
+            
+              <category>Air Quality</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Where to run after confinement?</title>
+        <link>https://thebooort.github.io/posts/where-to-run/</link>
+        <pubDate>Thu, 30 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Thu, 30 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/where-to-run/</guid>
+        <description>We can go for a quick run, but&amp;hellip; where? From now on (technically May 2nd), in Spain (specifically in my city Granada), we are allowed to go for a quick run or walk in the morning. Those are really good news for every runner and trail runner I know, but with great power comes great responsability.
+My main concern about going outside for a quick run is how many people will I encounter while running.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/run.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Running</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Winning probabilities in Go (leela)</title>
+        <link>https://thebooort.github.io/posts/baduk-go-winning-probabilities/</link>
+        <pubDate>Sun, 26 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Sun, 26 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/baduk-go-winning-probabilities/</guid>
+        <description>photo credits: Photo by Joe Woods on Unsplash
+Plotting winning probabilities in a 9x9 Go / Baduk game This morning I found this post on Reddit about winning probability for black for all starting positions.
+I found this visualization quite interested but i couldn&amp;rsquo;t find any link to a source code to generate it or the data used to generate it, so I decided to replicate it myself.
+I am starting with a 9x9, because I am not familiar with any parser to exchange data with a go engine.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/go.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Machine Learning</category>
+            
+          
+            
+              <category>Go</category>
+            
+          
+            
+              <category>Baduk</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Baduk</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Baduk</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Data Science in my last CS:GO match (1)</title>
+        <link>https://thebooort.github.io/posts/analyzing-data-from-my-last-csgo-match/</link>
+        <pubDate>Thu, 23 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Thu, 23 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/analyzing-data-from-my-last-csgo-match/</guid>
+        <description>Image credit: La Tercera
+  Counter Strike and Data Science 1: Grenades and other utilities Counter Strike Global Offensive (CSGO) is a first person shooter game developed by Valve and Hidden Path Entertainment.
+The game pits two teams against each other: the Terrorists and the Counter-Terrorists. Both sides are tasked with eliminating the other while also completing separate objectives. The Terrorists, depending on the game mode, must either plant the bomb or defend the hostages, while the Counter-Terrorists must either prevent the bomb from being planted, defuse the bomb, or rescue the hostages.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/csgo-cover.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Machine Learning</category>
+            
+          
+            
+              <category>CSGO</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>Gaming</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>CSGO</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>¿Cómo vamos? Estimando el ritmo de contagio </title>
+        <link>https://thebooort.github.io/posts/r_0granada/</link>
+        <pubDate>Fri, 10 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Fri, 10 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/r_0granada/</guid>
+        <description>Image credit: CDC Unsplash
+Estimando R_0 de Granada (ritmo de contagio) en ventanas semanales En lugar de hacer estimaciones o predicciones (aún creo que tengo que seguir leyendo más sobre el tema para lanzarme) he optado por analizar el ritmo reproductivo básico.
+(de Wikipedia) En epidemiología, el número básico de reproducción (a veces llamado ritmo básico de reproducción, ratio reproductiva básica y denotadas por $R0$, r sub-cero) de una infección es el número promedio de casos nuevos que genera un caso dado a lo largo de un período infeccioso.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/virus.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>R</category>
+            
+          
+            
+              <category>Statistics</category>
+            
+          
+            
+              <category>Mathematics</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>El aire que respiramos durante el confinamiento</title>
+        <link>https://thebooort.github.io/posts/pollution_levels/</link>
+        <pubDate>Wed, 08 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Wed, 08 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/pollution_levels/</guid>
+        <description>Image credit: Ivan Aleksic @ivalex Unsplash
+¿Cómo afecta el confinamiento a los niveles de polución? Durante la cuarentena que estamos viviendo la reducción de la movilidad de las personas es evidente.
+Ligada a esta disminución del tránsito de vehiculos particulares, vehiculos de transporte público y algunas maquinarias pertenecientes a servicios que se encuentran inactivos, muchos medios se han hecho eco de la disminución en los niveles de polución ambiental. Es más, al ser COVID una enfermedad que afecta a las vías respiratorias, ya hay algunos analisis que relacionan la polución del aire con tasas de moratilidad mas altas por COVID.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/polucion.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Pollution</category>
+            
+          
+            
+              <category>Ecology</category>
+            
+          
+            
+              <category>Air Quality</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Did confinement affect my sleep/exercise routine?</title>
+        <link>https://thebooort.github.io/posts/analyzing-sleep-patterns-before-and-during-covid19-quarentine/</link>
+        <pubDate>Mon, 06 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Mon, 06 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/analyzing-sleep-patterns-before-and-during-covid19-quarentine/</guid>
+        <description>Image credit: Javier Ezpeleta @javierezpeleta Unsplash
+Did confinement affects my sleep routine? Llevamos ya varias semanas de cuarentena y los ánimos varían mucho de un día a otro. Ultimamente han aparecido muchos artículos y estudios sobre el posible impacto del confinamiento en nuestros ritmos de vida. El tema me despertaba bastante curiosidad desde el principio, y da la casualidad de que por mis otros hobbies (trail running) tengo un reloj capaz de captar algunas de mis rutinas.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/cat.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+            
+              <category>Machine Learning</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>CO₂ emissions per capita in history: a bar chart race</title>
+        <link>https://thebooort.github.io/posts/bar_chart/</link>
+        <pubDate>Sun, 29 Mar 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Sun, 29 Mar 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/bar_chart/</guid>
+        <description>Bar chart race Siguiendo un poco el interés que me suscita la representación visual de datos, aprovechando la cuarentena me puse a descubrir la mejor forma de hacer una &amp;ldquo;carrera de gráficos de barras&amp;rdquo;.
+Este tipo de visualización ha cogido fama últimamente. Más que por su su utilidad a la hora de analizar los datos, por su forma atractiva y visual de presentar la información, haciéndola muy apetecible al público en general y prestándose a ofrecer videos interesantes fáciles de consumir.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/co2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Flourish</category>
+            
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Bar Chart Race</category>
+            
+          
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>DataViz</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

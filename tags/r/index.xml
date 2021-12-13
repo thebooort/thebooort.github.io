@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>R on Effective Axiomatization</title>
+    <link>https://thebooort.github.io/tags/r/</link>
+    <description>Recent content in R on Effective Axiomatization</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
+    <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
+    <copyright>CC-BY-SA, {year}</copyright>
+    <lastBuildDate>Thu, 30 Apr 2020 12:00:06 +0900</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
+    
+        <atom:link href="https://thebooort.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>¿Cómo vamos? Estimando el ritmo de contagio </title>
+        <link>https://thebooort.github.io/posts/r_0granada/</link>
+        <pubDate>Fri, 10 Apr 2020 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Fri, 10 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/r_0granada/</guid>
+        <description>Image credit: CDC Unsplash
+Estimando R_0 de Granada (ritmo de contagio) en ventanas semanales En lugar de hacer estimaciones o predicciones (aún creo que tengo que seguir leyendo más sobre el tema para lanzarme) he optado por analizar el ritmo reproductivo básico.
+(de Wikipedia) En epidemiología, el número básico de reproducción (a veces llamado ritmo básico de reproducción, ratio reproductiva básica y denotadas por $R0$, r sub-cero) de una infección es el número promedio de casos nuevos que genera un caso dado a lo largo de un período infeccioso.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/virus.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+            
+              <category>R</category>
+            
+          
+            
+              <category>Statistics</category>
+            
+          
+            
+              <category>Mathematics</category>
+            
+          
+        
+        
+          
+            
+              <category>coding</category>
+            
+          
+            
+              <category>Data Science</category>
+            
+          
+        
+        
+          
+            
+              <category>Data Science</category>
+            
+          
+            
+              <category>COVID19</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
