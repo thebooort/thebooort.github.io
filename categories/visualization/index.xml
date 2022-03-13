@@ -14,7 +14,7 @@
     <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
     <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Sun, 12 Dec 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Feb 2022 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/categories/visualization/index.xml" rel="self" type="application/rss+xml" />
@@ -24,14 +24,107 @@
 
       
       <item>
+        <title>Most Popular Joseki in 2021</title>
+        <link>https://thebooort.github.io/posts/joseki2021/</link>
+        <pubDate>Wed, 16 Feb 2022 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Wed, 16 Feb 2022 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/joseki2021/</guid>
+        <description>Most Popular Joseki in 2021 Motivation I was just surfing on the web when I came across this data set. I add extra labels and think about the best way to show it.
+At first I thought about making a big goban and divide it, adding the diagrams to every corner. But generating diagrams is kind of a pain in the ass, and more than 4 probably wont let the reader understand anything, so I decided to go a little bit more abstract, and use only the diagrams when hovering.</description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.ioimages/josekis%20most%20used.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Flourish</category>
+            
+          
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>My COVID experience</title>
+        <link>https://thebooort.github.io/posts/my-covid-infection/</link>
+        <pubDate>Mon, 31 Jan 2022 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        <atom:modified>Mon, 31 Jan 2022 12:00:06 +0900</atom:modified>
+        <guid>https://thebooort.github.io/posts/my-covid-infection/</guid>
+        <description>My COVID experience En enero de 2022 tuve la mala suerte de pillar la COVID-19.
+Durante los días que mostré sçintomas, me dediqué apuntarlos y medirlos.
+Este es el resultado.
+VIZ   LINKS  No data provided this time, sorry!  </description>
+        
+        <dc:creator>Bart</dc:creator>
+        <media:content url="https://thebooort.github.io/images/covid2022.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+            
+              <category>Data</category>
+            
+          
+            
+              <category>Python</category>
+            
+          
+        
+        
+          
+            
+              <category>Visualization</category>
+            
+          
+        
+        
+          
+            
+              <category>Projects</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>My coffee Journey... Wrapped 2021</title>
         <link>https://thebooort.github.io/posts/coffee2021/</link>
         <pubDate>Sun, 12 Dec 2021 12:00:06 +0900</pubDate>
         <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sun, 12 Dec 2021 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/coffee2021/</guid>
-        <description>Coffee 2021 Wrapped   Motivation WIP!
-                LINKS  Repository (code and examples)  </description>
+        <description>Coffee 2021 Wrapped   Motivation Antes de empezar:
+ hay un poco de 2020 tmb XD Datos de cafés comprados, no están aquellos que he probado en cafeterías. No busco un perfil determinado al comprar café, me gusta probar todo No juzguéis duramente el hilo, que es por las risas. Café para filtro.  Toda la info proviene de cafés de especialidad
+Visualization Origen ¿De dónde vienen los cafés que he tomado este año?</description>
         
         <dc:creator>Bart</dc:creator>
         <media:content url="https://thebooort.github.ioimages/coffee2021wrapped.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -79,10 +172,11 @@
         <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 10 Dec 2021 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/go_chart_2021/</guid>
-        <description>Visualization of the European Go Championship&amp;rsquo;s Finals   Motivation Just a few days ago the world chess championship ended. Of course, it is a very important event that always appears in the media. FivethirtyEigth is no exception. I am not a big fan of chess (I practiced it in my high school days, but I never spent enough time to be competent at it), but like any other sporting event, I find it fascinating to keep up to date with what is going on.</description>
+        <description>photo credits: Photo by Joe Woods on Unsplash
+Visualization of the European Go Championship&amp;rsquo;s Finals   Motivation Just a few days ago the world chess championship ended. Of course, it is a very important event that always appears in the media. FivethirtyEigth is no exception. I am not a big fan of chess (I practiced it in my high school days, but I never spent enough time to be competent at it), but like any other sporting event, I find it fascinating to keep up to date with what is going on.</description>
         
         <dc:creator>Bart</dc:creator>
-        <media:content url="https://thebooort.github.ioimages/final1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://thebooort.github.ioimages/infografia%20final.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

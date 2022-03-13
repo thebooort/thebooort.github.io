@@ -14,7 +14,7 @@
     <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
     <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Sun, 12 Dec 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Feb 2022 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/series/index.xml" rel="self" type="application/rss+xml" />
@@ -26,7 +26,7 @@
       <item>
         <title>Projects</title>
         <link>https://thebooort.github.io/series/projects/</link>
-        <pubDate>Sun, 12 Dec 2021 12:00:06 +0900</pubDate>
+        <pubDate>Wed, 16 Feb 2022 12:00:06 +0900</pubDate>
         <author>bortiz@ugr.es (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/series/projects/</guid>

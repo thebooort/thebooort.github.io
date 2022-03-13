@@ -30,10 +30,11 @@
         <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 10 Dec 2021 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/go_chart_2021/</guid>
-        <description>Visualization of the European Go Championship&amp;rsquo;s Finals   Motivation Just a few days ago the world chess championship ended. Of course, it is a very important event that always appears in the media. FivethirtyEigth is no exception. I am not a big fan of chess (I practiced it in my high school days, but I never spent enough time to be competent at it), but like any other sporting event, I find it fascinating to keep up to date with what is going on.</description>
+        <description>photo credits: Photo by Joe Woods on Unsplash
+Visualization of the European Go Championship&amp;rsquo;s Finals   Motivation Just a few days ago the world chess championship ended. Of course, it is a very important event that always appears in the media. FivethirtyEigth is no exception. I am not a big fan of chess (I practiced it in my high school days, but I never spent enough time to be competent at it), but like any other sporting event, I find it fascinating to keep up to date with what is going on.</description>
         
         <dc:creator>Bart</dc:creator>
-        <media:content url="https://thebooort.github.ioimages/final1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://thebooort.github.ioimages/infografia%20final.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

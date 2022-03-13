@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://thebooort.github.io/showcase/asociaciones/hablandodeciencia/</loc>
+    <lastmod>2021-12-01T21:13:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/showcase/asociaciones/scenio/</loc>
+    <lastmod>2021-12-01T21:13:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/showcase/comunicaci%C3%B3n-cient%C3%ADfica/scenio/</loc>
+    <lastmod>2021-12-01T21:13:42+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thebooort.github.io/showcase/coding/tpc/</loc>
     <lastmod>2020-08-20T21:13:42+09:00</lastmod>
   </url>
@@ -64,7 +79,62 @@
   
   <url>
     <loc>https://thebooort.github.io/categories/</loc>
-    <lastmod>2021-12-12T12:00:06+09:00</lastmod>
+    <lastmod>2022-02-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/data/</loc>
+    <lastmod>2022-02-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/flourish/</loc>
+    <lastmod>2022-02-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/joseki2021/</loc>
+    <lastmod>2022-02-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/</loc>
+    <lastmod>2022-02-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/projects/</loc>
+    <lastmod>2022-02-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/series/</loc>
+    <lastmod>2022-02-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/</loc>
+    <lastmod>2022-02-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/visualization/</loc>
+    <lastmod>2022-02-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/categories/visualization/</loc>
+    <lastmod>2022-02-16T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/posts/my-covid-infection/</loc>
+    <lastmod>2022-01-31T12:00:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thebooort.github.io/tags/python/</loc>
+    <lastmod>2022-01-31T12:00:06+09:00</lastmod>
   </url>
   
   <url>
@@ -73,47 +143,7 @@
   </url>
   
   <url>
-    <loc>https://thebooort.github.io/tags/data/</loc>
-    <lastmod>2021-12-12T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thebooort.github.io/posts/coffee2021/</loc>
-    <lastmod>2021-12-12T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/posts/</loc>
-    <lastmod>2021-12-12T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/series/projects/</loc>
-    <lastmod>2021-12-12T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/python/</loc>
-    <lastmod>2021-12-12T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/series/</loc>
-    <lastmod>2021-12-12T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/</loc>
-    <lastmod>2021-12-12T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/visualization/</loc>
-    <lastmod>2021-12-12T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/categories/visualization/</loc>
     <lastmod>2021-12-12T12:00:06+09:00</lastmod>
   </url>
   
@@ -429,11 +459,6 @@
   
   <url>
     <loc>https://thebooort.github.io/series/dataviz/</loc>
-    <lastmod>2020-03-29T12:00:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thebooort.github.io/tags/flourish/</loc>
     <lastmod>2020-03-29T12:00:06+09:00</lastmod>
   </url>
   

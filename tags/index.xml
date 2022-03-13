@@ -14,7 +14,7 @@
     <managingEditor>bortiz@ugr.es (Bart Ortiz)</managingEditor>
     <webMaster>bortiz@ugr.es (Bart Ortiz)</webMaster>
     <copyright>CC-BY-SA, {year}</copyright>
-    <lastBuildDate>Sun, 12 Dec 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Feb 2022 12:00:06 +0900</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://thebooort.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -26,7 +26,7 @@
       <item>
         <title>Data</title>
         <link>https://thebooort.github.io/tags/data/</link>
-        <pubDate>Sun, 12 Dec 2021 12:00:06 +0900</pubDate>
+        <pubDate>Wed, 16 Feb 2022 12:00:06 +0900</pubDate>
         <author>bortiz@ugr.es (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/data/</guid>
@@ -42,12 +42,12 @@
       </item>
       
       <item>
-        <title>Python</title>
-        <link>https://thebooort.github.io/tags/python/</link>
-        <pubDate>Sun, 12 Dec 2021 12:00:06 +0900</pubDate>
+        <title>Flourish</title>
+        <link>https://thebooort.github.io/tags/flourish/</link>
+        <pubDate>Wed, 16 Feb 2022 12:00:06 +0900</pubDate>
         <author>bortiz@ugr.es (Bart Ortiz)</author>
         
-        <guid>https://thebooort.github.io/tags/python/</guid>
+        <guid>https://thebooort.github.io/tags/flourish/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
@@ -62,10 +62,28 @@
       <item>
         <title>Visualization</title>
         <link>https://thebooort.github.io/tags/visualization/</link>
-        <pubDate>Sun, 12 Dec 2021 12:00:06 +0900</pubDate>
+        <pubDate>Wed, 16 Feb 2022 12:00:06 +0900</pubDate>
         <author>bortiz@ugr.es (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/visualization/</guid>
+        <description></description>
+        
+        <dc:creator>Bart Ortiz</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Python</title>
+        <link>https://thebooort.github.io/tags/python/</link>
+        <pubDate>Mon, 31 Jan 2022 12:00:06 +0900</pubDate>
+        <author>bortiz@ugr.es (Bart Ortiz)</author>
+        
+        <guid>https://thebooort.github.io/tags/python/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>
@@ -588,24 +606,6 @@
         <author>bortiz@ugr.es (Bart Ortiz)</author>
         
         <guid>https://thebooort.github.io/tags/bar-chart-race/</guid>
-        <description></description>
-        
-        <dc:creator>Bart Ortiz</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Flourish</title>
-        <link>https://thebooort.github.io/tags/flourish/</link>
-        <pubDate>Sun, 29 Mar 2020 12:00:06 +0900</pubDate>
-        <author>bortiz@ugr.es (Bart Ortiz)</author>
-        
-        <guid>https://thebooort.github.io/tags/flourish/</guid>
         <description></description>
         
         <dc:creator>Bart Ortiz</dc:creator>

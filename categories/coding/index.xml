@@ -30,8 +30,9 @@
         <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Sun, 12 Dec 2021 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/coffee2021/</guid>
-        <description>Coffee 2021 Wrapped   Motivation WIP!
-                LINKS  Repository (code and examples)  </description>
+        <description>Coffee 2021 Wrapped   Motivation Antes de empezar:
+ hay un poco de 2020 tmb XD Datos de cafés comprados, no están aquellos que he probado en cafeterías. No busco un perfil determinado al comprar café, me gusta probar todo No juzguéis duramente el hilo, que es por las risas. Café para filtro.  Toda la info proviene de cafés de especialidad
+Visualization Origen ¿De dónde vienen los cafés que he tomado este año?</description>
         
         <dc:creator>Bart</dc:creator>
         <media:content url="https://thebooort.github.ioimages/coffee2021wrapped.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -79,10 +80,11 @@
         <author>bortiz@ugr.es (Bart Ortiz)</author>
         <atom:modified>Fri, 10 Dec 2021 12:00:06 +0900</atom:modified>
         <guid>https://thebooort.github.io/posts/go_chart_2021/</guid>
-        <description>Visualization of the European Go Championship&amp;rsquo;s Finals   Motivation Just a few days ago the world chess championship ended. Of course, it is a very important event that always appears in the media. FivethirtyEigth is no exception. I am not a big fan of chess (I practiced it in my high school days, but I never spent enough time to be competent at it), but like any other sporting event, I find it fascinating to keep up to date with what is going on.</description>
+        <description>photo credits: Photo by Joe Woods on Unsplash
+Visualization of the European Go Championship&amp;rsquo;s Finals   Motivation Just a few days ago the world chess championship ended. Of course, it is a very important event that always appears in the media. FivethirtyEigth is no exception. I am not a big fan of chess (I practiced it in my high school days, but I never spent enough time to be competent at it), but like any other sporting event, I find it fascinating to keep up to date with what is going on.</description>
         
         <dc:creator>Bart</dc:creator>
-        <media:content url="https://thebooort.github.ioimages/final1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://thebooort.github.ioimages/infografia%20final.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
